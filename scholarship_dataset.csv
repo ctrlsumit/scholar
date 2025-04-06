@@ -1,0 +1,1001 @@
+Scholarship_ID,Scholarship_Name,Amount,State,Category,Batch,Eligibility_Caste,Eligibility_Gender,Min_Percentage_Required,Course_Applicable,Application_Start_Date,Application_Deadline,Contact_Email
+SCH636060,Private Merit-based Scholarship for Arts,42098,Delhi,Merit-based,2023,All,Male,87,Science,2025-03-21,2025-04-28,contact@delhischolarships.gov.in
+SCH488529,National Merit-based Scholarship for Medical,40495,Assam,Merit-based,2023,All,Male,95,Any,2025-04-08,2025-06-15,contact@assamscholarships.gov.in
+SCH308672,State Need-based Scholarship for Commerce,46463,Telangana,Need-based,2023,OBC,All,77,Arts,2025-04-27,2025-07-21,contact@telanganascholarships.gov.in
+SCH104216,National Need-based Scholarship for Arts,23396,Kerala,Need-based,2023,SC,Female,88,Arts,2025-03-12,2025-05-05,contact@keralascholarships.gov.in
+SCH81272,State Women-specific Scholarship for Commerce,13180,Assam,Women-specific,2023,All,Female,90,Commerce,2025-05-05,2025-06-28,contact@assamscholarships.gov.in
+SCH304788,National Sports Scholarship for Any,9558,Rajasthan,Sports,2024,SC,Male,64,Engineering,2025-03-09,2025-05-20,contact@rajasthanscholarships.gov.in
+SCH832350,State Minority Scholarship for Any,28909,Tamil Nadu,Minority,2025,OBC,All,67,Any,2025-03-17,2025-05-09,contact@tamilnaduscholarships.gov.in
+SCH349613,Private Sports Scholarship for Medical,40005,Bihar,Sports,2024,ST,Female,67,Any,2025-04-22,2025-06-06,contact@biharscholarships.gov.in
+SCH718088,State Women-specific Scholarship for Engineering,20010,Karnataka,Women-specific,2025,ST,Female,54,Medical,2025-04-28,2025-05-30,contact@karnatakascholarships.gov.in
+SCH261144,Private Need-based Scholarship for Science,61856,Punjab,Need-based,2026,OBC,Female,58,Medical,2025-05-02,2025-07-29,contact@punjabscholarships.gov.in
+SCH94204,Private Women-specific Scholarship for Science,43242,Kerala,Women-specific,2024,OBC,All,81,Engineering,2025-04-01,2025-05-24,contact@keralascholarships.gov.in
+SCH758763,National Merit-based Scholarship for Any,30969,Assam,Merit-based,2026,All,Male,74,Science,2025-04-26,2025-07-08,contact@assamscholarships.gov.in
+SCH879233,State Sports Scholarship for Commerce,5752,Uttar Pradesh,Sports,2023,All,Female,91,Arts,2025-04-19,2025-07-04,contact@uttarpradeshscholarships.gov.in
+SCH562082,State Minority Scholarship for Medical,34735,Delhi,Minority,2025,All,Male,82,Engineering,2025-03-07,2025-05-22,contact@delhischolarships.gov.in
+SCH847040,Private Women-specific Scholarship for Commerce,18035,Maharashtra,Women-specific,2024,All,All,50,Commerce,2025-03-16,2025-05-08,contact@maharashtrascholarships.gov.in
+SCH544554,National Research Scholarship for Engineering,240306,Punjab,Research,2025,OBC,Male,65,Commerce,2025-05-02,2025-07-24,contact@punjabscholarships.gov.in
+SCH452538,Private Merit-based Scholarship for Science,19071,Bihar,Merit-based,2024,OBC,All,80,Commerce,2025-04-24,2025-06-27,contact@biharscholarships.gov.in
+SCH408361,Private Minority Scholarship for Commerce,32730,Haryana,Minority,2024,SC,Female,92,Any,2025-03-20,2025-06-17,contact@haryanascholarships.gov.in
+SCH330641,Private Research Scholarship for Science,113441,Rajasthan,Research,2023,SC,Male,87,Commerce,2025-03-22,2025-05-05,contact@rajasthanscholarships.gov.in
+SCH994695,National Sports Scholarship for Engineering,9652,Karnataka,Sports,2023,OBC,Male,52,Arts,2025-04-21,2025-06-30,contact@karnatakascholarships.gov.in
+SCH364282,National Sports Scholarship for Arts,48842,Bihar,Sports,2024,All,All,80,Medical,2025-04-07,2025-05-20,contact@biharscholarships.gov.in
+SCH724371,National Research Scholarship for Engineering,100819,West Bengal,Research,2025,ST,Female,79,Any,2025-04-18,2025-06-14,contact@westbengalscholarships.gov.in
+SCH274674,Private Women-specific Scholarship for Any,11449,Assam,Women-specific,2025,General,Male,62,Medical,2025-03-10,2025-05-04,contact@assamscholarships.gov.in
+SCH109019,State Need-based Scholarship for Medical,46509,Uttar Pradesh,Need-based,2023,ST,All,56,Engineering,2025-04-05,2025-05-20,contact@uttarpradeshscholarships.gov.in
+SCH141151,National Merit-based Scholarship for Medical,63269,Andhra Pradesh,Merit-based,2024,ST,Male,60,Science,2025-04-07,2025-06-06,contact@andhrapradeshscholarships.gov.in
+SCH535399,State Research Scholarship for Science,199552,Andhra Pradesh,Research,2026,OBC,Male,68,Medical,2025-04-03,2025-06-16,contact@andhrapradeshscholarships.gov.in
+SCH337789,Private Sports Scholarship for Commerce,8994,Assam,Sports,2023,General,All,80,Commerce,2025-04-23,2025-06-12,contact@assamscholarships.gov.in
+SCH591900,Private Merit-based Scholarship for Engineering,34356,Haryana,Merit-based,2023,OBC,Female,57,Commerce,2025-03-11,2025-05-18,contact@haryanascholarships.gov.in
+SCH573589,Private Sports Scholarship for Engineering,45591,Karnataka,Sports,2025,SC,Male,92,Any,2025-03-12,2025-05-07,contact@karnatakascholarships.gov.in
+SCH779272,State Need-based Scholarship for Science,27154,Punjab,Need-based,2025,ST,Female,54,Engineering,2025-04-18,2025-06-28,contact@punjabscholarships.gov.in
+SCH265876,Private Sports Scholarship for Engineering,9801,Uttar Pradesh,Sports,2025,OBC,Female,54,Medical,2025-04-10,2025-05-23,contact@uttarpradeshscholarships.gov.in
+SCH737670,National Minority Scholarship for Science,40600,Rajasthan,Minority,2023,All,Female,92,Engineering,2025-04-21,2025-06-09,contact@rajasthanscholarships.gov.in
+SCH42284,National Minority Scholarship for Engineering,41256,Gujarat,Minority,2025,All,Male,95,Arts,2025-03-16,2025-05-02,contact@gujaratscholarships.gov.in
+SCH33625,Private Women-specific Scholarship for Arts,38122,Himachal Pradesh,Women-specific,2023,General,All,77,Arts,2025-04-07,2025-05-23,contact@himachalpradeshscholarships.gov.in
+SCH236410,State Merit-based Scholarship for Medical,93507,Assam,Merit-based,2026,All,All,77,Commerce,2025-03-23,2025-05-02,contact@assamscholarships.gov.in
+SCH655032,National Merit-based Scholarship for Any,29536,Andhra Pradesh,Merit-based,2025,All,All,59,Science,2025-04-10,2025-05-12,contact@andhrapradeshscholarships.gov.in
+SCH436041,State Merit-based Scholarship for Arts,15229,Gujarat,Merit-based,2024,OBC,All,56,Arts,2025-05-03,2025-06-24,contact@gujaratscholarships.gov.in
+SCH394295,Private Sports Scholarship for Medical,20514,Telangana,Sports,2024,ST,Male,61,Any,2025-05-01,2025-06-10,contact@telanganascholarships.gov.in
+SCH622614,Private Research Scholarship for Any,475066,Punjab,Research,2024,General,Female,52,Science,2025-03-22,2025-05-08,contact@punjabscholarships.gov.in
+SCH995490,State Need-based Scholarship for Arts,50001,Karnataka,Need-based,2024,OBC,Male,92,Medical,2025-04-28,2025-07-17,contact@karnatakascholarships.gov.in
+SCH853050,State Minority Scholarship for Engineering,23292,Tamil Nadu,Minority,2026,All,Female,51,Engineering,2025-03-29,2025-06-08,contact@tamilnaduscholarships.gov.in
+SCH305110,Private Need-based Scholarship for Arts,15014,Kerala,Need-based,2026,SC,All,70,Science,2025-03-13,2025-05-20,contact@keralascholarships.gov.in
+SCH717723,Private Research Scholarship for Medical,183547,Delhi,Research,2026,General,All,84,Any,2025-03-09,2025-05-23,contact@delhischolarships.gov.in
+SCH736672,State Minority Scholarship for Engineering,48531,Himachal Pradesh,Minority,2025,General,All,69,Commerce,2025-05-04,2025-06-24,contact@himachalpradeshscholarships.gov.in
+SCH532961,State Women-specific Scholarship for Arts,31371,Maharashtra,Women-specific,2024,OBC,Female,92,Science,2025-04-20,2025-06-07,contact@maharashtrascholarships.gov.in
+SCH181492,Private Sports Scholarship for Arts,31612,Haryana,Sports,2023,SC,Female,63,Science,2025-04-11,2025-07-03,contact@haryanascholarships.gov.in
+SCH23962,State Research Scholarship for Science,404223,Punjab,Research,2026,OBC,All,55,Arts,2025-03-20,2025-05-21,contact@punjabscholarships.gov.in
+SCH568862,National Merit-based Scholarship for Any,50687,Punjab,Merit-based,2024,OBC,Male,52,Medical,2025-03-21,2025-06-10,contact@punjabscholarships.gov.in
+SCH418900,National Sports Scholarship for Science,32160,West Bengal,Sports,2024,ST,Female,75,Medical,2025-05-02,2025-07-11,contact@westbengalscholarships.gov.in
+SCH811682,Private Women-specific Scholarship for Engineering,11985,Gujarat,Women-specific,2024,OBC,All,83,Science,2025-04-25,2025-06-21,contact@gujaratscholarships.gov.in
+SCH59569,National Sports Scholarship for Engineering,34914,Assam,Sports,2026,All,All,88,Arts,2025-03-15,2025-06-04,contact@assamscholarships.gov.in
+SCH297937,Private Sports Scholarship for Commerce,32966,Uttar Pradesh,Sports,2026,OBC,All,80,Science,2025-04-29,2025-07-26,contact@uttarpradeshscholarships.gov.in
+SCH725794,Private Need-based Scholarship for Arts,78327,Kerala,Need-based,2024,SC,Female,54,Any,2025-04-07,2025-06-16,contact@keralascholarships.gov.in
+SCH38901,State Need-based Scholarship for Arts,51904,Maharashtra,Need-based,2023,OBC,Male,64,Science,2025-05-03,2025-07-06,contact@maharashtrascholarships.gov.in
+SCH638428,National Women-specific Scholarship for Engineering,32188,Gujarat,Women-specific,2026,ST,Male,63,Science,2025-04-02,2025-05-23,contact@gujaratscholarships.gov.in
+SCH556741,Private Sports Scholarship for Engineering,42728,Tamil Nadu,Sports,2023,SC,Female,74,Science,2025-03-31,2025-05-30,contact@tamilnaduscholarships.gov.in
+SCH618657,National Research Scholarship for Arts,278503,Karnataka,Research,2026,SC,All,93,Science,2025-04-07,2025-05-08,contact@karnatakascholarships.gov.in
+SCH488807,National Research Scholarship for Commerce,330034,Haryana,Research,2026,All,All,92,Engineering,2025-03-08,2025-06-04,contact@haryanascholarships.gov.in
+SCH331555,State Women-specific Scholarship for Medical,35257,Bihar,Women-specific,2025,ST,Female,63,Science,2025-03-18,2025-04-20,contact@biharscholarships.gov.in
+SCH322275,State Minority Scholarship for Arts,32627,Punjab,Minority,2023,ST,Male,84,Engineering,2025-03-23,2025-06-14,contact@punjabscholarships.gov.in
+SCH308022,Private Need-based Scholarship for Engineering,95426,Rajasthan,Need-based,2023,OBC,Male,51,Commerce,2025-03-09,2025-05-26,contact@rajasthanscholarships.gov.in
+SCH126294,National Need-based Scholarship for Science,97747,Gujarat,Need-based,2024,ST,All,66,Arts,2025-03-14,2025-05-19,contact@gujaratscholarships.gov.in
+SCH985649,Private Sports Scholarship for Any,12506,Haryana,Sports,2024,SC,Male,87,Engineering,2025-04-25,2025-07-16,contact@haryanascholarships.gov.in
+SCH32412,Private Sports Scholarship for Science,30995,Maharashtra,Sports,2024,General,All,94,Any,2025-05-06,2025-07-20,contact@maharashtrascholarships.gov.in
+SCH799732,Private Merit-based Scholarship for Arts,99687,Karnataka,Merit-based,2023,All,Male,72,Commerce,2025-04-14,2025-07-04,contact@karnatakascholarships.gov.in
+SCH440589,State Women-specific Scholarship for Engineering,38158,Telangana,Women-specific,2023,ST,Female,56,Science,2025-04-17,2025-06-07,contact@telanganascholarships.gov.in
+SCH624471,State Women-specific Scholarship for Any,15026,Rajasthan,Women-specific,2025,All,All,80,Science,2025-04-03,2025-05-14,contact@rajasthanscholarships.gov.in
+SCH296216,Private Women-specific Scholarship for Arts,26122,Telangana,Women-specific,2023,SC,Female,65,Science,2025-04-30,2025-06-14,contact@telanganascholarships.gov.in
+SCH717049,National Minority Scholarship for Science,26300,Tamil Nadu,Minority,2024,SC,Female,71,Arts,2025-03-18,2025-05-18,contact@tamilnaduscholarships.gov.in
+SCH116797,National Sports Scholarship for Commerce,17521,Kerala,Sports,2026,ST,All,65,Any,2025-03-12,2025-04-26,contact@keralascholarships.gov.in
+SCH546644,Private Women-specific Scholarship for Science,34371,West Bengal,Women-specific,2023,SC,Male,75,Any,2025-04-26,2025-05-27,contact@westbengalscholarships.gov.in
+SCH468052,Private Minority Scholarship for Commerce,29184,Karnataka,Minority,2025,ST,All,85,Arts,2025-04-06,2025-06-10,contact@karnatakascholarships.gov.in
+SCH66910,State Women-specific Scholarship for Arts,25094,Rajasthan,Women-specific,2023,OBC,Female,57,Any,2025-03-23,2025-05-06,contact@rajasthanscholarships.gov.in
+SCH266267,National Need-based Scholarship for Any,73464,Haryana,Need-based,2025,General,Male,68,Medical,2025-03-24,2025-06-08,contact@haryanascholarships.gov.in
+SCH677552,State Need-based Scholarship for Engineering,80010,Rajasthan,Need-based,2023,General,All,68,Any,2025-03-15,2025-05-01,contact@rajasthanscholarships.gov.in
+SCH463007,State Women-specific Scholarship for Engineering,5803,Gujarat,Women-specific,2026,ST,Female,71,Medical,2025-04-12,2025-05-30,contact@gujaratscholarships.gov.in
+SCH688654,State Minority Scholarship for Engineering,9282,Assam,Minority,2023,All,All,93,Engineering,2025-04-01,2025-06-01,contact@assamscholarships.gov.in
+SCH379420,Private Need-based Scholarship for Arts,21164,Gujarat,Need-based,2026,All,All,89,Medical,2025-03-22,2025-04-28,contact@gujaratscholarships.gov.in
+SCH217482,State Research Scholarship for Arts,358556,Tamil Nadu,Research,2023,All,All,56,Medical,2025-04-03,2025-05-22,contact@tamilnaduscholarships.gov.in
+SCH211756,Private Minority Scholarship for Engineering,15292,Himachal Pradesh,Minority,2023,OBC,Male,76,Science,2025-03-22,2025-05-02,contact@himachalpradeshscholarships.gov.in
+SCH393803,National Minority Scholarship for Medical,23881,West Bengal,Minority,2026,General,All,64,Arts,2025-04-21,2025-06-08,contact@westbengalscholarships.gov.in
+SCH564209,National Research Scholarship for Commerce,167864,Himachal Pradesh,Research,2025,OBC,Male,53,Medical,2025-04-17,2025-05-26,contact@himachalpradeshscholarships.gov.in
+SCH777922,Private Sports Scholarship for Commerce,23914,Maharashtra,Sports,2026,SC,All,75,Arts,2025-04-04,2025-05-11,contact@maharashtrascholarships.gov.in
+SCH326366,National Research Scholarship for Commerce,70898,West Bengal,Research,2025,All,Female,51,Engineering,2025-05-02,2025-06-28,contact@westbengalscholarships.gov.in
+SCH830344,Private Women-specific Scholarship for Commerce,6359,Karnataka,Women-specific,2025,All,Male,61,Science,2025-04-24,2025-07-06,contact@karnatakascholarships.gov.in
+SCH653674,National Minority Scholarship for Commerce,33566,Uttar Pradesh,Minority,2026,General,Female,72,Science,2025-04-16,2025-07-07,contact@uttarpradeshscholarships.gov.in
+SCH809191,Private Minority Scholarship for Engineering,15539,Punjab,Minority,2026,SC,All,75,Commerce,2025-03-28,2025-05-23,contact@punjabscholarships.gov.in
+SCH890617,National Research Scholarship for Arts,182329,Assam,Research,2026,All,Male,92,Commerce,2025-03-27,2025-05-03,contact@assamscholarships.gov.in
+SCH818448,National Research Scholarship for Medical,321811,Uttar Pradesh,Research,2026,ST,Male,63,Arts,2025-03-30,2025-06-07,contact@uttarpradeshscholarships.gov.in
+SCH528766,State Minority Scholarship for Any,36766,Gujarat,Minority,2024,OBC,Female,85,Engineering,2025-03-14,2025-04-14,contact@gujaratscholarships.gov.in
+SCH864157,National Merit-based Scholarship for Engineering,70482,Telangana,Merit-based,2024,ST,All,68,Commerce,2025-05-06,2025-06-12,contact@telanganascholarships.gov.in
+SCH927516,State Research Scholarship for Science,177785,Kerala,Research,2024,ST,Male,88,Commerce,2025-04-05,2025-06-09,contact@keralascholarships.gov.in
+SCH737960,State Merit-based Scholarship for Science,54548,Gujarat,Merit-based,2025,General,Female,69,Commerce,2025-05-05,2025-07-24,contact@gujaratscholarships.gov.in
+SCH378133,State Need-based Scholarship for Commerce,73483,West Bengal,Need-based,2026,ST,Female,62,Any,2025-03-29,2025-05-19,contact@westbengalscholarships.gov.in
+SCH513990,State Sports Scholarship for Medical,31920,Karnataka,Sports,2026,ST,Female,92,Any,2025-03-09,2025-04-28,contact@karnatakascholarships.gov.in
+SCH54533,National Research Scholarship for Medical,313345,Gujarat,Research,2023,ST,Male,83,Science,2025-04-13,2025-06-03,contact@gujaratscholarships.gov.in
+SCH424073,National Women-specific Scholarship for Science,47911,Andhra Pradesh,Women-specific,2026,SC,Female,89,Any,2025-03-16,2025-04-19,contact@andhrapradeshscholarships.gov.in
+SCH93407,National Women-specific Scholarship for Arts,49194,Tamil Nadu,Women-specific,2026,SC,All,95,Science,2025-04-30,2025-07-03,contact@tamilnaduscholarships.gov.in
+SCH272094,National Sports Scholarship for Medical,46363,Assam,Sports,2025,OBC,All,55,Science,2025-04-19,2025-07-16,contact@assamscholarships.gov.in
+SCH126215,Private Women-specific Scholarship for Engineering,34076,Delhi,Women-specific,2025,General,Male,70,Engineering,2025-03-17,2025-05-30,contact@delhischolarships.gov.in
+SCH396407,State Minority Scholarship for Science,14540,Maharashtra,Minority,2026,All,All,61,Medical,2025-03-22,2025-05-24,contact@maharashtrascholarships.gov.in
+SCH628414,Private Merit-based Scholarship for Science,91226,Haryana,Merit-based,2026,All,Male,64,Science,2025-04-19,2025-06-03,contact@haryanascholarships.gov.in
+SCH490396,State Research Scholarship for Any,54926,Kerala,Research,2026,SC,All,84,Medical,2025-05-03,2025-07-23,contact@keralascholarships.gov.in
+SCH798687,State Research Scholarship for Commerce,206842,Bihar,Research,2025,ST,Female,62,Science,2025-04-16,2025-06-12,contact@biharscholarships.gov.in
+SCH350976,National Merit-based Scholarship for Science,84963,West Bengal,Merit-based,2025,SC,Male,92,Science,2025-03-29,2025-06-03,contact@westbengalscholarships.gov.in
+SCH489195,Private Merit-based Scholarship for Any,16428,Kerala,Merit-based,2026,SC,Male,88,Arts,2025-05-04,2025-07-11,contact@keralascholarships.gov.in
+SCH698977,National Women-specific Scholarship for Commerce,21425,Karnataka,Women-specific,2024,General,All,91,Engineering,2025-04-19,2025-07-06,contact@karnatakascholarships.gov.in
+SCH308808,National Research Scholarship for Commerce,241292,Maharashtra,Research,2023,SC,Female,76,Medical,2025-04-22,2025-05-30,contact@maharashtrascholarships.gov.in
+SCH604703,Private Need-based Scholarship for Arts,79579,Himachal Pradesh,Need-based,2025,OBC,Female,80,Arts,2025-04-08,2025-07-05,contact@himachalpradeshscholarships.gov.in
+SCH431436,State Merit-based Scholarship for Engineering,28449,Punjab,Merit-based,2026,All,Female,55,Science,2025-04-24,2025-06-07,contact@punjabscholarships.gov.in
+SCH804013,Private Minority Scholarship for Engineering,34804,Andhra Pradesh,Minority,2025,All,Female,90,Arts,2025-03-30,2025-06-11,contact@andhrapradeshscholarships.gov.in
+SCH136013,National Women-specific Scholarship for Science,6640,Delhi,Women-specific,2025,All,Male,91,Engineering,2025-04-15,2025-07-10,contact@delhischolarships.gov.in
+SCH758023,State Women-specific Scholarship for Any,31758,Uttar Pradesh,Women-specific,2023,General,Female,81,Engineering,2025-03-14,2025-04-21,contact@uttarpradeshscholarships.gov.in
+SCH491598,Private Need-based Scholarship for Medical,60940,Delhi,Need-based,2026,All,All,59,Science,2025-04-05,2025-05-28,contact@delhischolarships.gov.in
+SCH585272,Private Research Scholarship for Science,196664,Delhi,Research,2025,OBC,Female,78,Medical,2025-03-09,2025-05-22,contact@delhischolarships.gov.in
+SCH942457,Private Merit-based Scholarship for Arts,81364,Rajasthan,Merit-based,2025,General,Female,67,Medical,2025-05-03,2025-07-13,contact@rajasthanscholarships.gov.in
+SCH958798,National Research Scholarship for Any,161204,Delhi,Research,2023,General,Female,65,Medical,2025-04-17,2025-06-26,contact@delhischolarships.gov.in
+SCH441167,Private Merit-based Scholarship for Medical,86858,Himachal Pradesh,Merit-based,2024,SC,Male,88,Engineering,2025-03-20,2025-06-10,contact@himachalpradeshscholarships.gov.in
+SCH381775,National Need-based Scholarship for Commerce,42853,Kerala,Need-based,2023,General,Male,50,Arts,2025-04-27,2025-06-07,contact@keralascholarships.gov.in
+SCH499144,State Sports Scholarship for Engineering,16419,Karnataka,Sports,2024,ST,All,57,Any,2025-03-23,2025-04-25,contact@karnatakascholarships.gov.in
+SCH891886,State Research Scholarship for Arts,319084,Bihar,Research,2026,All,Male,89,Engineering,2025-04-13,2025-05-19,contact@biharscholarships.gov.in
+SCH30067,Private Research Scholarship for Engineering,81890,Maharashtra,Research,2026,ST,All,56,Science,2025-04-06,2025-06-29,contact@maharashtrascholarships.gov.in
+SCH12053,National Merit-based Scholarship for Arts,89730,Uttar Pradesh,Merit-based,2024,SC,All,90,Commerce,2025-03-16,2025-04-19,contact@uttarpradeshscholarships.gov.in
+SCH918204,Private Research Scholarship for Commerce,204611,Punjab,Research,2026,General,All,57,Any,2025-04-05,2025-06-06,contact@punjabscholarships.gov.in
+SCH806319,State Research Scholarship for Medical,266957,Himachal Pradesh,Research,2026,ST,Female,56,Arts,2025-03-28,2025-06-18,contact@himachalpradeshscholarships.gov.in
+SCH933439,Private Minority Scholarship for Arts,29530,Telangana,Minority,2026,General,Male,55,Engineering,2025-03-16,2025-05-28,contact@telanganascholarships.gov.in
+SCH249514,Private Merit-based Scholarship for Any,58843,Telangana,Merit-based,2023,All,All,85,Arts,2025-04-27,2025-06-04,contact@telanganascholarships.gov.in
+SCH240933,State Research Scholarship for Any,443365,Delhi,Research,2023,SC,All,69,Arts,2025-04-03,2025-06-27,contact@delhischolarships.gov.in
+SCH143905,Private Sports Scholarship for Medical,15140,Delhi,Sports,2024,General,Female,85,Arts,2025-04-18,2025-06-17,contact@delhischolarships.gov.in
+SCH140914,Private Minority Scholarship for Medical,33122,Delhi,Minority,2023,All,All,94,Arts,2025-04-30,2025-07-04,contact@delhischolarships.gov.in
+SCH454949,State Need-based Scholarship for Any,50499,Andhra Pradesh,Need-based,2025,General,Male,59,Commerce,2025-05-04,2025-06-24,contact@andhrapradeshscholarships.gov.in
+SCH864859,National Merit-based Scholarship for Any,92991,Tamil Nadu,Merit-based,2024,ST,Female,79,Arts,2025-03-08,2025-04-12,contact@tamilnaduscholarships.gov.in
+SCH393876,State Minority Scholarship for Any,26258,Haryana,Minority,2023,General,Male,60,Commerce,2025-04-25,2025-07-24,contact@haryanascholarships.gov.in
+SCH11401,National Women-specific Scholarship for Arts,34039,Assam,Women-specific,2026,All,Female,76,Arts,2025-04-18,2025-06-14,contact@assamscholarships.gov.in
+SCH977973,National Sports Scholarship for Arts,33174,Himachal Pradesh,Sports,2026,All,All,69,Engineering,2025-03-14,2025-05-01,contact@himachalpradeshscholarships.gov.in
+SCH242094,Private Research Scholarship for Engineering,54030,Karnataka,Research,2024,OBC,Female,68,Arts,2025-03-20,2025-05-08,contact@karnatakascholarships.gov.in
+SCH116328,State Merit-based Scholarship for Any,66446,Delhi,Merit-based,2026,All,All,64,Commerce,2025-03-18,2025-04-25,contact@delhischolarships.gov.in
+SCH386128,State Merit-based Scholarship for Any,15544,Rajasthan,Merit-based,2026,General,Female,86,Science,2025-04-03,2025-05-04,contact@rajasthanscholarships.gov.in
+SCH392636,Private Women-specific Scholarship for Science,23973,Tamil Nadu,Women-specific,2023,SC,Male,89,Science,2025-03-14,2025-05-08,contact@tamilnaduscholarships.gov.in
+SCH697691,State Merit-based Scholarship for Engineering,41891,Rajasthan,Merit-based,2026,All,Male,75,Arts,2025-04-03,2025-06-09,contact@rajasthanscholarships.gov.in
+SCH535010,State Need-based Scholarship for Medical,20011,Punjab,Need-based,2023,All,All,62,Arts,2025-04-08,2025-06-17,contact@punjabscholarships.gov.in
+SCH171860,Private Women-specific Scholarship for Medical,20484,Rajasthan,Women-specific,2025,OBC,Male,88,Medical,2025-03-13,2025-04-21,contact@rajasthanscholarships.gov.in
+SCH315210,Private Need-based Scholarship for Science,70811,Bihar,Need-based,2026,All,All,90,Commerce,2025-04-24,2025-06-29,contact@biharscholarships.gov.in
+SCH820968,State Women-specific Scholarship for Medical,33820,Punjab,Women-specific,2026,SC,Female,87,Engineering,2025-03-11,2025-05-10,contact@punjabscholarships.gov.in
+SCH642641,National Sports Scholarship for Arts,35260,Rajasthan,Sports,2023,SC,Female,54,Any,2025-04-04,2025-05-06,contact@rajasthanscholarships.gov.in
+SCH80839,Private Sports Scholarship for Commerce,30197,Bihar,Sports,2023,ST,All,91,Medical,2025-04-05,2025-06-11,contact@biharscholarships.gov.in
+SCH375807,State Sports Scholarship for Commerce,14886,Punjab,Sports,2023,SC,All,55,Commerce,2025-03-10,2025-05-07,contact@punjabscholarships.gov.in
+SCH561489,National Merit-based Scholarship for Any,67377,Haryana,Merit-based,2024,SC,Female,68,Science,2025-04-04,2025-06-06,contact@haryanascholarships.gov.in
+SCH627374,Private Minority Scholarship for Commerce,8431,Telangana,Minority,2025,General,Female,56,Commerce,2025-04-26,2025-07-05,contact@telanganascholarships.gov.in
+SCH891677,State Minority Scholarship for Any,48028,Tamil Nadu,Minority,2024,SC,Male,87,Any,2025-05-04,2025-07-11,contact@tamilnaduscholarships.gov.in
+SCH562778,State Minority Scholarship for Any,48393,Gujarat,Minority,2023,SC,All,74,Any,2025-04-01,2025-05-09,contact@gujaratscholarships.gov.in
+SCH742195,Private Need-based Scholarship for Any,99838,Punjab,Need-based,2023,ST,All,73,Engineering,2025-05-04,2025-07-06,contact@punjabscholarships.gov.in
+SCH70332,National Minority Scholarship for Medical,27395,Rajasthan,Minority,2026,OBC,Male,58,Medical,2025-05-06,2025-07-24,contact@rajasthanscholarships.gov.in
+SCH684105,National Minority Scholarship for Commerce,40374,Bihar,Minority,2023,SC,All,58,Commerce,2025-04-29,2025-07-15,contact@biharscholarships.gov.in
+SCH180343,National Need-based Scholarship for Medical,91885,Tamil Nadu,Need-based,2024,ST,Male,76,Arts,2025-04-27,2025-07-23,contact@tamilnaduscholarships.gov.in
+SCH519332,Private Research Scholarship for Arts,444469,Karnataka,Research,2026,OBC,All,65,Arts,2025-04-23,2025-07-12,contact@karnatakascholarships.gov.in
+SCH126790,State Need-based Scholarship for Any,84766,West Bengal,Need-based,2025,ST,All,83,Science,2025-04-04,2025-06-02,contact@westbengalscholarships.gov.in
+SCH690557,Private Need-based Scholarship for Medical,42768,Haryana,Need-based,2026,SC,All,56,Any,2025-03-10,2025-05-20,contact@haryanascholarships.gov.in
+SCH196213,National Minority Scholarship for Medical,22877,Delhi,Minority,2024,ST,Male,64,Science,2025-04-04,2025-06-30,contact@delhischolarships.gov.in
+SCH114874,State Merit-based Scholarship for Engineering,61964,Rajasthan,Merit-based,2024,ST,Male,73,Medical,2025-04-08,2025-05-31,contact@rajasthanscholarships.gov.in
+SCH522986,National Minority Scholarship for Any,47595,Andhra Pradesh,Minority,2024,OBC,Male,68,Science,2025-03-28,2025-06-16,contact@andhrapradeshscholarships.gov.in
+SCH886546,State Women-specific Scholarship for Science,45327,Gujarat,Women-specific,2023,General,Female,63,Medical,2025-03-07,2025-06-02,contact@gujaratscholarships.gov.in
+SCH739426,State Merit-based Scholarship for Medical,49472,Telangana,Merit-based,2024,ST,All,89,Science,2025-03-14,2025-04-16,contact@telanganascholarships.gov.in
+SCH101191,State Merit-based Scholarship for Commerce,80261,Bihar,Merit-based,2024,OBC,Female,77,Engineering,2025-03-08,2025-05-17,contact@biharscholarships.gov.in
+SCH24728,Private Need-based Scholarship for Science,34551,Rajasthan,Need-based,2023,All,Female,54,Commerce,2025-04-18,2025-06-29,contact@rajasthanscholarships.gov.in
+SCH531502,State Research Scholarship for Engineering,383274,Andhra Pradesh,Research,2025,General,Female,54,Arts,2025-03-31,2025-05-23,contact@andhrapradeshscholarships.gov.in
+SCH172609,Private Women-specific Scholarship for Any,11793,Karnataka,Women-specific,2025,OBC,Male,72,Commerce,2025-04-25,2025-07-01,contact@karnatakascholarships.gov.in
+SCH180044,National Women-specific Scholarship for Any,35449,Punjab,Women-specific,2024,OBC,Male,95,Science,2025-04-20,2025-06-19,contact@punjabscholarships.gov.in
+SCH117742,National Minority Scholarship for Engineering,18072,Assam,Minority,2025,SC,All,75,Commerce,2025-05-02,2025-06-03,contact@assamscholarships.gov.in
+SCH11287,National Minority Scholarship for Any,17524,West Bengal,Minority,2023,SC,Female,57,Arts,2025-03-25,2025-05-16,contact@westbengalscholarships.gov.in
+SCH6178,Private Research Scholarship for Science,252713,Telangana,Research,2026,ST,Female,83,Arts,2025-03-28,2025-05-08,contact@telanganascholarships.gov.in
+SCH518044,State Women-specific Scholarship for Engineering,33220,Bihar,Women-specific,2024,All,Female,70,Engineering,2025-04-14,2025-07-05,contact@biharscholarships.gov.in
+SCH370667,Private Minority Scholarship for Arts,25086,Bihar,Minority,2026,OBC,All,78,Arts,2025-04-04,2025-06-11,contact@biharscholarships.gov.in
+SCH947576,Private Merit-based Scholarship for Arts,90589,Uttar Pradesh,Merit-based,2023,General,All,90,Science,2025-04-03,2025-05-20,contact@uttarpradeshscholarships.gov.in
+SCH247476,Private Sports Scholarship for Any,15484,Rajasthan,Sports,2024,All,All,78,Engineering,2025-05-06,2025-06-06,contact@rajasthanscholarships.gov.in
+SCH838084,National Merit-based Scholarship for Any,58015,Gujarat,Merit-based,2023,All,Male,93,Science,2025-03-30,2025-05-23,contact@gujaratscholarships.gov.in
+SCH701538,State Minority Scholarship for Engineering,42612,Rajasthan,Minority,2025,ST,Female,91,Arts,2025-03-15,2025-05-17,contact@rajasthanscholarships.gov.in
+SCH95343,National Merit-based Scholarship for Any,34385,Karnataka,Merit-based,2026,All,Male,66,Arts,2025-04-07,2025-06-09,contact@karnatakascholarships.gov.in
+SCH407332,Private Need-based Scholarship for Arts,74382,Uttar Pradesh,Need-based,2024,General,Female,61,Any,2025-03-19,2025-04-25,contact@uttarpradeshscholarships.gov.in
+SCH22598,Private Merit-based Scholarship for Arts,97535,Uttar Pradesh,Merit-based,2023,All,All,68,Arts,2025-03-29,2025-06-12,contact@uttarpradeshscholarships.gov.in
+SCH144897,Private Women-specific Scholarship for Any,46792,Haryana,Women-specific,2025,All,Male,57,Medical,2025-03-18,2025-06-06,contact@haryanascholarships.gov.in
+SCH81357,State Need-based Scholarship for Engineering,57303,Gujarat,Need-based,2025,ST,All,58,Commerce,2025-04-11,2025-06-16,contact@gujaratscholarships.gov.in
+SCH714224,State Merit-based Scholarship for Science,72739,Bihar,Merit-based,2026,All,Male,58,Arts,2025-04-09,2025-06-04,contact@biharscholarships.gov.in
+SCH696809,State Research Scholarship for Any,321245,Bihar,Research,2024,OBC,Female,82,Engineering,2025-03-29,2025-05-06,contact@biharscholarships.gov.in
+SCH37648,National Sports Scholarship for Arts,15790,Delhi,Sports,2024,SC,All,68,Engineering,2025-03-17,2025-05-06,contact@delhischolarships.gov.in
+SCH621440,Private Need-based Scholarship for Commerce,45972,Kerala,Need-based,2025,All,All,55,Commerce,2025-03-15,2025-05-24,contact@keralascholarships.gov.in
+SCH292527,Private Sports Scholarship for Medical,16219,Haryana,Sports,2025,All,Male,51,Engineering,2025-04-18,2025-06-26,contact@haryanascholarships.gov.in
+SCH123292,Private Women-specific Scholarship for Arts,47672,Assam,Women-specific,2026,All,All,51,Science,2025-03-20,2025-06-07,contact@assamscholarships.gov.in
+SCH2418,State Women-specific Scholarship for Science,21048,Maharashtra,Women-specific,2026,SC,Female,54,Any,2025-04-27,2025-07-17,contact@maharashtrascholarships.gov.in
+SCH489306,State Need-based Scholarship for Science,73471,Assam,Need-based,2025,All,Male,70,Any,2025-04-05,2025-05-18,contact@assamscholarships.gov.in
+SCH209122,State Women-specific Scholarship for Science,13569,Punjab,Women-specific,2023,SC,Male,79,Engineering,2025-04-24,2025-06-16,contact@punjabscholarships.gov.in
+SCH75326,National Research Scholarship for Medical,100757,Kerala,Research,2026,All,Female,65,Medical,2025-03-10,2025-04-27,contact@keralascholarships.gov.in
+SCH57113,Private Sports Scholarship for Arts,17440,Punjab,Sports,2026,All,Female,81,Arts,2025-04-24,2025-06-03,contact@punjabscholarships.gov.in
+SCH760479,National Merit-based Scholarship for Science,76249,West Bengal,Merit-based,2024,All,Female,53,Engineering,2025-04-05,2025-05-20,contact@westbengalscholarships.gov.in
+SCH405744,Private Research Scholarship for Any,402594,Maharashtra,Research,2023,General,Female,58,Arts,2025-04-06,2025-05-24,contact@maharashtrascholarships.gov.in
+SCH774059,State Research Scholarship for Engineering,260020,Rajasthan,Research,2024,SC,All,68,Engineering,2025-03-10,2025-05-15,contact@rajasthanscholarships.gov.in
+SCH456267,State Sports Scholarship for Commerce,23331,Tamil Nadu,Sports,2023,OBC,Male,75,Arts,2025-04-28,2025-07-06,contact@tamilnaduscholarships.gov.in
+SCH39967,State Sports Scholarship for Medical,18045,Punjab,Sports,2026,All,Male,52,Engineering,2025-04-14,2025-06-15,contact@punjabscholarships.gov.in
+SCH736383,State Women-specific Scholarship for Science,39034,Gujarat,Women-specific,2024,SC,All,70,Medical,2025-04-05,2025-05-14,contact@gujaratscholarships.gov.in
+SCH311685,Private Sports Scholarship for Arts,43910,Tamil Nadu,Sports,2026,All,Female,80,Engineering,2025-03-28,2025-05-29,contact@tamilnaduscholarships.gov.in
+SCH197545,Private Minority Scholarship for Engineering,32298,Rajasthan,Minority,2023,All,Female,66,Any,2025-04-13,2025-06-01,contact@rajasthanscholarships.gov.in
+SCH957513,National Women-specific Scholarship for Commerce,36486,Karnataka,Women-specific,2026,OBC,All,65,Engineering,2025-03-17,2025-05-19,contact@karnatakascholarships.gov.in
+SCH153516,National Need-based Scholarship for Science,51116,Delhi,Need-based,2026,OBC,Female,82,Commerce,2025-04-02,2025-05-11,contact@delhischolarships.gov.in
+SCH227821,Private Women-specific Scholarship for Engineering,14049,West Bengal,Women-specific,2025,ST,All,74,Arts,2025-04-09,2025-05-22,contact@westbengalscholarships.gov.in
+SCH958230,Private Research Scholarship for Arts,336404,Haryana,Research,2025,All,Female,62,Medical,2025-03-29,2025-06-10,contact@haryanascholarships.gov.in
+SCH137154,State Sports Scholarship for Medical,24504,Kerala,Sports,2024,ST,Female,80,Arts,2025-04-25,2025-06-12,contact@keralascholarships.gov.in
+SCH234537,National Minority Scholarship for Commerce,49343,Kerala,Minority,2026,SC,Male,68,Engineering,2025-04-10,2025-06-03,contact@keralascholarships.gov.in
+SCH735255,National Women-specific Scholarship for Arts,33991,Maharashtra,Women-specific,2026,OBC,Male,84,Arts,2025-04-17,2025-06-02,contact@maharashtrascholarships.gov.in
+SCH73933,National Need-based Scholarship for Commerce,86917,Kerala,Need-based,2023,All,Male,90,Medical,2025-03-22,2025-05-06,contact@keralascholarships.gov.in
+SCH646430,State Merit-based Scholarship for Arts,71918,Assam,Merit-based,2024,General,All,60,Science,2025-03-13,2025-05-25,contact@assamscholarships.gov.in
+SCH502331,Private Research Scholarship for Medical,446315,West Bengal,Research,2025,General,Male,91,Commerce,2025-03-25,2025-05-14,contact@westbengalscholarships.gov.in
+SCH577902,Private Sports Scholarship for Any,7444,Karnataka,Sports,2024,ST,Male,52,Science,2025-05-04,2025-07-31,contact@karnatakascholarships.gov.in
+SCH501677,Private Need-based Scholarship for Arts,14910,West Bengal,Need-based,2023,SC,Female,79,Any,2025-03-07,2025-04-25,contact@westbengalscholarships.gov.in
+SCH844490,Private Need-based Scholarship for Science,45761,West Bengal,Need-based,2023,SC,Male,79,Any,2025-03-19,2025-06-08,contact@westbengalscholarships.gov.in
+SCH255716,National Women-specific Scholarship for Engineering,27092,Kerala,Women-specific,2024,OBC,All,90,Science,2025-04-26,2025-06-13,contact@keralascholarships.gov.in
+SCH188887,State Sports Scholarship for Engineering,31269,Telangana,Sports,2024,OBC,Female,70,Medical,2025-04-18,2025-05-24,contact@telanganascholarships.gov.in
+SCH576113,State Minority Scholarship for Medical,34277,Andhra Pradesh,Minority,2025,SC,All,86,Engineering,2025-04-24,2025-06-10,contact@andhrapradeshscholarships.gov.in
+SCH932193,State Women-specific Scholarship for Any,20486,Kerala,Women-specific,2023,ST,Female,60,Science,2025-03-10,2025-05-21,contact@keralascholarships.gov.in
+SCH401667,National Women-specific Scholarship for Any,24335,Maharashtra,Women-specific,2024,OBC,Male,80,Medical,2025-03-30,2025-06-07,contact@maharashtrascholarships.gov.in
+SCH928363,Private Women-specific Scholarship for Arts,32252,Uttar Pradesh,Women-specific,2026,All,All,63,Medical,2025-04-20,2025-06-24,contact@uttarpradeshscholarships.gov.in
+SCH19093,State Sports Scholarship for Commerce,28709,Bihar,Sports,2023,General,All,82,Medical,2025-03-11,2025-06-07,contact@biharscholarships.gov.in
+SCH58877,State Need-based Scholarship for Commerce,67912,Gujarat,Need-based,2024,All,Female,55,Commerce,2025-03-14,2025-05-26,contact@gujaratscholarships.gov.in
+SCH696893,State Merit-based Scholarship for Medical,77272,Uttar Pradesh,Merit-based,2023,All,Female,93,Arts,2025-04-02,2025-05-31,contact@uttarpradeshscholarships.gov.in
+SCH898744,State Research Scholarship for Engineering,441016,Andhra Pradesh,Research,2023,General,Female,72,Any,2025-03-20,2025-05-26,contact@andhrapradeshscholarships.gov.in
+SCH833389,National Sports Scholarship for Engineering,35937,Bihar,Sports,2026,OBC,Male,91,Any,2025-03-09,2025-04-26,contact@biharscholarships.gov.in
+SCH8667,State Minority Scholarship for Science,29739,Telangana,Minority,2024,SC,Male,61,Commerce,2025-03-31,2025-05-05,contact@telanganascholarships.gov.in
+SCH585999,National Sports Scholarship for Any,19594,Tamil Nadu,Sports,2023,SC,Female,93,Any,2025-04-29,2025-05-29,contact@tamilnaduscholarships.gov.in
+SCH868346,State Sports Scholarship for Medical,21220,Telangana,Sports,2024,SC,Male,57,Engineering,2025-04-05,2025-05-27,contact@telanganascholarships.gov.in
+SCH823585,National Sports Scholarship for Medical,18505,Telangana,Sports,2023,ST,All,93,Any,2025-03-11,2025-04-16,contact@telanganascholarships.gov.in
+SCH622044,Private Need-based Scholarship for Engineering,62725,Assam,Need-based,2024,General,Male,82,Arts,2025-04-04,2025-05-18,contact@assamscholarships.gov.in
+SCH72986,Private Women-specific Scholarship for Arts,42845,Karnataka,Women-specific,2025,OBC,Female,59,Any,2025-04-14,2025-07-02,contact@karnatakascholarships.gov.in
+SCH413665,State Research Scholarship for Arts,81959,Karnataka,Research,2024,ST,All,81,Engineering,2025-04-11,2025-07-10,contact@karnatakascholarships.gov.in
+SCH683970,Private Women-specific Scholarship for Science,39371,Rajasthan,Women-specific,2026,ST,Male,69,Science,2025-03-27,2025-06-09,contact@rajasthanscholarships.gov.in
+SCH647411,State Sports Scholarship for Medical,19768,Haryana,Sports,2024,ST,Male,85,Science,2025-03-26,2025-06-18,contact@haryanascholarships.gov.in
+SCH535578,Private Sports Scholarship for Medical,30455,Telangana,Sports,2024,SC,All,55,Science,2025-03-22,2025-05-07,contact@telanganascholarships.gov.in
+SCH962251,Private Merit-based Scholarship for Any,34966,Rajasthan,Merit-based,2026,All,All,52,Engineering,2025-03-10,2025-04-26,contact@rajasthanscholarships.gov.in
+SCH603507,Private Sports Scholarship for Any,41624,Himachal Pradesh,Sports,2024,SC,Female,50,Medical,2025-03-20,2025-05-19,contact@himachalpradeshscholarships.gov.in
+SCH436406,National Women-specific Scholarship for Any,36386,Himachal Pradesh,Women-specific,2024,ST,Male,85,Arts,2025-05-04,2025-06-18,contact@himachalpradeshscholarships.gov.in
+SCH678437,State Research Scholarship for Commerce,390116,Maharashtra,Research,2025,SC,All,81,Science,2025-03-29,2025-05-17,contact@maharashtrascholarships.gov.in
+SCH306571,State Women-specific Scholarship for Arts,18312,Delhi,Women-specific,2026,General,All,64,Any,2025-03-30,2025-05-19,contact@delhischolarships.gov.in
+SCH882158,State Merit-based Scholarship for Commerce,86550,Gujarat,Merit-based,2026,SC,Male,62,Arts,2025-04-13,2025-06-28,contact@gujaratscholarships.gov.in
+SCH362708,Private Research Scholarship for Medical,311777,Karnataka,Research,2025,SC,Female,91,Any,2025-04-11,2025-06-21,contact@karnatakascholarships.gov.in
+SCH880012,National Research Scholarship for Any,466796,West Bengal,Research,2024,All,Female,61,Commerce,2025-03-29,2025-05-08,contact@westbengalscholarships.gov.in
+SCH77115,National Sports Scholarship for Engineering,48792,Assam,Sports,2023,ST,Male,90,Medical,2025-03-10,2025-05-27,contact@assamscholarships.gov.in
+SCH221090,National Women-specific Scholarship for Engineering,19334,Bihar,Women-specific,2025,General,All,90,Any,2025-04-08,2025-06-06,contact@biharscholarships.gov.in
+SCH286314,State Women-specific Scholarship for Engineering,5433,West Bengal,Women-specific,2026,General,Male,83,Any,2025-04-10,2025-06-14,contact@westbengalscholarships.gov.in
+SCH543176,State Sports Scholarship for Engineering,37913,Kerala,Sports,2026,OBC,Male,56,Commerce,2025-04-28,2025-07-11,contact@keralascholarships.gov.in
+SCH415958,National Need-based Scholarship for Commerce,79003,Gujarat,Need-based,2025,SC,Female,55,Arts,2025-03-23,2025-06-13,contact@gujaratscholarships.gov.in
+SCH823591,Private Research Scholarship for Medical,415552,Tamil Nadu,Research,2023,General,Male,75,Science,2025-03-21,2025-05-09,contact@tamilnaduscholarships.gov.in
+SCH38141,State Sports Scholarship for Engineering,46729,Tamil Nadu,Sports,2024,General,Female,77,Any,2025-03-07,2025-05-20,contact@tamilnaduscholarships.gov.in
+SCH635467,National Sports Scholarship for Commerce,7788,Punjab,Sports,2026,SC,Male,54,Any,2025-03-21,2025-05-03,contact@punjabscholarships.gov.in
+SCH578640,Private Sports Scholarship for Any,7156,Kerala,Sports,2025,General,Male,87,Medical,2025-03-18,2025-06-15,contact@keralascholarships.gov.in
+SCH753895,State Merit-based Scholarship for Medical,83919,Tamil Nadu,Merit-based,2026,All,Female,74,Any,2025-03-22,2025-05-27,contact@tamilnaduscholarships.gov.in
+SCH676845,Private Women-specific Scholarship for Engineering,37819,Gujarat,Women-specific,2023,General,Female,64,Engineering,2025-04-23,2025-06-14,contact@gujaratscholarships.gov.in
+SCH581598,Private Sports Scholarship for Commerce,30998,Punjab,Sports,2023,SC,Female,81,Medical,2025-04-25,2025-06-14,contact@punjabscholarships.gov.in
+SCH953893,State Sports Scholarship for Science,17172,Rajasthan,Sports,2026,General,All,68,Medical,2025-04-19,2025-06-25,contact@rajasthanscholarships.gov.in
+SCH970135,State Merit-based Scholarship for Medical,59807,Bihar,Merit-based,2024,ST,Female,73,Engineering,2025-04-21,2025-07-10,contact@biharscholarships.gov.in
+SCH177299,State Merit-based Scholarship for Science,57175,Bihar,Merit-based,2023,OBC,Male,61,Science,2025-04-24,2025-06-10,contact@biharscholarships.gov.in
+SCH949360,Private Sports Scholarship for Commerce,31741,Uttar Pradesh,Sports,2023,SC,All,55,Commerce,2025-03-13,2025-04-13,contact@uttarpradeshscholarships.gov.in
+SCH296400,National Research Scholarship for Arts,266955,Punjab,Research,2023,All,Male,86,Commerce,2025-03-31,2025-06-18,contact@punjabscholarships.gov.in
+SCH167781,State Women-specific Scholarship for Medical,14099,Haryana,Women-specific,2025,ST,Male,54,Medical,2025-03-24,2025-05-12,contact@haryanascholarships.gov.in
+SCH233697,State Minority Scholarship for Arts,36734,Telangana,Minority,2025,SC,Male,90,Science,2025-04-26,2025-05-30,contact@telanganascholarships.gov.in
+SCH928093,National Research Scholarship for Medical,209728,Himachal Pradesh,Research,2026,SC,All,74,Arts,2025-03-07,2025-06-05,contact@himachalpradeshscholarships.gov.in
+SCH744938,State Minority Scholarship for Any,43954,Uttar Pradesh,Minority,2025,All,All,62,Science,2025-03-15,2025-05-03,contact@uttarpradeshscholarships.gov.in
+SCH156126,State Need-based Scholarship for Arts,48200,Punjab,Need-based,2026,All,Male,70,Science,2025-04-23,2025-07-06,contact@punjabscholarships.gov.in
+SCH374687,State Research Scholarship for Engineering,345620,Kerala,Research,2024,All,Male,79,Any,2025-03-19,2025-05-25,contact@keralascholarships.gov.in
+SCH466590,State Research Scholarship for Any,86259,Himachal Pradesh,Research,2026,ST,Male,90,Arts,2025-04-28,2025-07-21,contact@himachalpradeshscholarships.gov.in
+SCH382771,Private Minority Scholarship for Medical,32730,Karnataka,Minority,2023,ST,All,80,Commerce,2025-04-26,2025-06-19,contact@karnatakascholarships.gov.in
+SCH563450,Private Sports Scholarship for Any,32413,Tamil Nadu,Sports,2025,All,All,90,Engineering,2025-04-10,2025-05-12,contact@tamilnaduscholarships.gov.in
+SCH913612,Private Need-based Scholarship for Any,56531,Delhi,Need-based,2023,All,All,93,Any,2025-03-17,2025-05-27,contact@delhischolarships.gov.in
+SCH209314,State Minority Scholarship for Engineering,5691,Tamil Nadu,Minority,2024,All,All,83,Commerce,2025-03-13,2025-04-28,contact@tamilnaduscholarships.gov.in
+SCH461082,State Research Scholarship for Science,292778,Karnataka,Research,2024,SC,Male,80,Engineering,2025-04-25,2025-07-07,contact@karnatakascholarships.gov.in
+SCH108611,National Research Scholarship for Engineering,485849,Maharashtra,Research,2024,SC,Female,71,Science,2025-05-06,2025-07-21,contact@maharashtrascholarships.gov.in
+SCH875724,State Sports Scholarship for Arts,36205,Himachal Pradesh,Sports,2026,SC,Male,69,Engineering,2025-03-13,2025-05-10,contact@himachalpradeshscholarships.gov.in
+SCH264744,State Merit-based Scholarship for Any,24334,Delhi,Merit-based,2024,OBC,All,61,Commerce,2025-04-19,2025-07-09,contact@delhischolarships.gov.in
+SCH658918,Private Minority Scholarship for Science,35281,Haryana,Minority,2026,OBC,Male,90,Any,2025-03-21,2025-06-10,contact@haryanascholarships.gov.in
+SCH843133,National Research Scholarship for Any,371968,Telangana,Research,2026,All,Female,74,Engineering,2025-05-02,2025-06-13,contact@telanganascholarships.gov.in
+SCH392247,State Need-based Scholarship for Any,18200,Himachal Pradesh,Need-based,2024,SC,Female,62,Science,2025-04-12,2025-05-18,contact@himachalpradeshscholarships.gov.in
+SCH628505,Private Minority Scholarship for Science,39584,Delhi,Minority,2026,All,Female,87,Engineering,2025-04-16,2025-06-05,contact@delhischolarships.gov.in
+SCH990262,State Minority Scholarship for Commerce,16306,Rajasthan,Minority,2025,All,All,55,Any,2025-04-28,2025-07-10,contact@rajasthanscholarships.gov.in
+SCH851897,National Minority Scholarship for Medical,25013,Gujarat,Minority,2025,OBC,All,74,Science,2025-03-14,2025-04-24,contact@gujaratscholarships.gov.in
+SCH842549,State Sports Scholarship for Science,17173,Gujarat,Sports,2024,All,Male,81,Arts,2025-04-07,2025-06-16,contact@gujaratscholarships.gov.in
+SCH337099,State Need-based Scholarship for Science,91187,Gujarat,Need-based,2025,General,Female,58,Medical,2025-03-10,2025-06-03,contact@gujaratscholarships.gov.in
+SCH427714,Private Sports Scholarship for Any,37438,Tamil Nadu,Sports,2026,ST,All,78,Science,2025-04-02,2025-06-14,contact@tamilnaduscholarships.gov.in
+SCH154206,Private Merit-based Scholarship for Engineering,38905,Haryana,Merit-based,2025,OBC,All,68,Medical,2025-03-25,2025-04-26,contact@haryanascholarships.gov.in
+SCH577771,Private Sports Scholarship for Science,41026,Uttar Pradesh,Sports,2023,SC,All,73,Commerce,2025-04-08,2025-05-15,contact@uttarpradeshscholarships.gov.in
+SCH20541,State Women-specific Scholarship for Commerce,19322,Assam,Women-specific,2024,SC,Male,78,Arts,2025-04-03,2025-05-09,contact@assamscholarships.gov.in
+SCH455312,State Merit-based Scholarship for Engineering,41056,Rajasthan,Merit-based,2025,All,All,77,Medical,2025-03-20,2025-06-09,contact@rajasthanscholarships.gov.in
+SCH831277,National Need-based Scholarship for Engineering,84720,Gujarat,Need-based,2025,All,All,60,Arts,2025-03-29,2025-06-01,contact@gujaratscholarships.gov.in
+SCH486089,Private Minority Scholarship for Arts,38712,Maharashtra,Minority,2023,OBC,Female,53,Arts,2025-05-03,2025-07-15,contact@maharashtrascholarships.gov.in
+SCH556376,National Women-specific Scholarship for Medical,14584,Gujarat,Women-specific,2024,ST,Female,59,Commerce,2025-04-21,2025-06-10,contact@gujaratscholarships.gov.in
+SCH317094,State Women-specific Scholarship for Science,34621,Kerala,Women-specific,2023,ST,All,67,Any,2025-03-11,2025-05-20,contact@keralascholarships.gov.in
+SCH608866,State Research Scholarship for Arts,355112,Rajasthan,Research,2023,ST,All,92,Any,2025-03-07,2025-05-31,contact@rajasthanscholarships.gov.in
+SCH512207,Private Merit-based Scholarship for Science,38551,Rajasthan,Merit-based,2024,ST,Female,70,Arts,2025-04-03,2025-06-24,contact@rajasthanscholarships.gov.in
+SCH888417,Private Sports Scholarship for Medical,42102,Punjab,Sports,2025,General,Male,56,Any,2025-04-30,2025-06-30,contact@punjabscholarships.gov.in
+SCH27975,National Merit-based Scholarship for Medical,67840,Uttar Pradesh,Merit-based,2026,OBC,All,58,Any,2025-04-05,2025-05-05,contact@uttarpradeshscholarships.gov.in
+SCH335490,State Need-based Scholarship for Engineering,95798,Maharashtra,Need-based,2023,SC,All,91,Medical,2025-03-30,2025-05-15,contact@maharashtrascholarships.gov.in
+SCH9445,Private Research Scholarship for Arts,430626,Assam,Research,2024,ST,All,55,Any,2025-04-20,2025-07-07,contact@assamscholarships.gov.in
+SCH398261,National Merit-based Scholarship for Science,20215,Delhi,Merit-based,2024,All,All,78,Engineering,2025-03-15,2025-05-21,contact@delhischolarships.gov.in
+SCH106529,State Women-specific Scholarship for Engineering,32676,Andhra Pradesh,Women-specific,2026,General,Male,74,Engineering,2025-04-20,2025-05-28,contact@andhrapradeshscholarships.gov.in
+SCH228808,State Merit-based Scholarship for Arts,49223,Delhi,Merit-based,2024,OBC,Male,83,Commerce,2025-03-15,2025-05-08,contact@delhischolarships.gov.in
+SCH866267,Private Sports Scholarship for Medical,33842,Andhra Pradesh,Sports,2024,OBC,Female,89,Any,2025-03-29,2025-06-13,contact@andhrapradeshscholarships.gov.in
+SCH909273,National Need-based Scholarship for Engineering,28351,Uttar Pradesh,Need-based,2026,SC,Female,70,Medical,2025-04-24,2025-05-31,contact@uttarpradeshscholarships.gov.in
+SCH727279,Private Minority Scholarship for Engineering,21263,Karnataka,Minority,2025,General,All,69,Medical,2025-04-11,2025-06-18,contact@karnatakascholarships.gov.in
+SCH686908,State Women-specific Scholarship for Arts,47347,Himachal Pradesh,Women-specific,2024,ST,Female,57,Medical,2025-03-10,2025-05-29,contact@himachalpradeshscholarships.gov.in
+SCH37023,Private Women-specific Scholarship for Engineering,39621,West Bengal,Women-specific,2025,SC,Male,74,Commerce,2025-05-02,2025-06-01,contact@westbengalscholarships.gov.in
+SCH200730,Private Minority Scholarship for Any,16322,Telangana,Minority,2023,General,All,54,Engineering,2025-04-24,2025-06-23,contact@telanganascholarships.gov.in
+SCH6325,National Need-based Scholarship for Engineering,62163,Kerala,Need-based,2026,ST,All,75,Engineering,2025-04-08,2025-05-26,contact@keralascholarships.gov.in
+SCH257078,National Minority Scholarship for Arts,10178,Gujarat,Minority,2024,OBC,All,70,Science,2025-04-08,2025-07-05,contact@gujaratscholarships.gov.in
+SCH109440,Private Minority Scholarship for Science,20639,Bihar,Minority,2023,ST,Male,79,Commerce,2025-03-10,2025-04-24,contact@biharscholarships.gov.in
+SCH369672,Private Minority Scholarship for Any,48126,Assam,Minority,2023,General,All,58,Any,2025-04-23,2025-06-03,contact@assamscholarships.gov.in
+SCH687385,State Need-based Scholarship for Arts,78551,Andhra Pradesh,Need-based,2025,OBC,Female,58,Any,2025-04-09,2025-06-28,contact@andhrapradeshscholarships.gov.in
+SCH977896,National Women-specific Scholarship for Engineering,26955,Kerala,Women-specific,2025,All,Male,66,Any,2025-04-27,2025-06-23,contact@keralascholarships.gov.in
+SCH190259,State Research Scholarship for Commerce,238808,Bihar,Research,2024,SC,Male,66,Engineering,2025-03-10,2025-05-10,contact@biharscholarships.gov.in
+SCH65111,Private Need-based Scholarship for Commerce,10336,Delhi,Need-based,2023,OBC,Male,80,Arts,2025-03-09,2025-06-01,contact@delhischolarships.gov.in
+SCH215841,National Need-based Scholarship for Engineering,82465,Tamil Nadu,Need-based,2026,OBC,Female,65,Science,2025-04-27,2025-07-24,contact@tamilnaduscholarships.gov.in
+SCH248072,National Minority Scholarship for Commerce,29432,Punjab,Minority,2023,OBC,Male,83,Engineering,2025-03-14,2025-05-15,contact@punjabscholarships.gov.in
+SCH225983,State Merit-based Scholarship for Arts,50723,Tamil Nadu,Merit-based,2026,General,Female,62,Arts,2025-03-27,2025-05-01,contact@tamilnaduscholarships.gov.in
+SCH415378,Private Women-specific Scholarship for Medical,35403,Maharashtra,Women-specific,2026,OBC,All,84,Medical,2025-03-30,2025-06-05,contact@maharashtrascholarships.gov.in
+SCH972521,State Merit-based Scholarship for Engineering,40539,Gujarat,Merit-based,2023,SC,Male,92,Science,2025-04-10,2025-06-01,contact@gujaratscholarships.gov.in
+SCH551545,National Merit-based Scholarship for Commerce,41217,Maharashtra,Merit-based,2023,OBC,All,67,Engineering,2025-04-02,2025-06-02,contact@maharashtrascholarships.gov.in
+SCH387419,Private Need-based Scholarship for Science,58823,Assam,Need-based,2023,All,Male,82,Medical,2025-04-05,2025-06-21,contact@assamscholarships.gov.in
+SCH521484,Private Merit-based Scholarship for Commerce,18163,Tamil Nadu,Merit-based,2024,OBC,Female,66,Arts,2025-04-03,2025-06-14,contact@tamilnaduscholarships.gov.in
+SCH703684,Private Women-specific Scholarship for Arts,25844,Tamil Nadu,Women-specific,2024,General,Male,58,Commerce,2025-04-04,2025-05-21,contact@tamilnaduscholarships.gov.in
+SCH645113,National Need-based Scholarship for Medical,68925,Delhi,Need-based,2026,General,All,72,Medical,2025-04-05,2025-05-25,contact@delhischolarships.gov.in
+SCH95468,State Minority Scholarship for Arts,12858,Uttar Pradesh,Minority,2025,All,Male,63,Arts,2025-03-12,2025-04-21,contact@uttarpradeshscholarships.gov.in
+SCH937799,Private Merit-based Scholarship for Medical,56627,Gujarat,Merit-based,2023,SC,Female,61,Engineering,2025-04-01,2025-06-02,contact@gujaratscholarships.gov.in
+SCH859412,Private Research Scholarship for Any,338421,Tamil Nadu,Research,2026,General,Male,57,Engineering,2025-03-22,2025-04-27,contact@tamilnaduscholarships.gov.in
+SCH479857,National Need-based Scholarship for Medical,62505,Assam,Need-based,2023,All,All,66,Engineering,2025-03-30,2025-06-11,contact@assamscholarships.gov.in
+SCH65506,National Merit-based Scholarship for Any,68121,Andhra Pradesh,Merit-based,2023,SC,Male,52,Science,2025-04-27,2025-06-04,contact@andhrapradeshscholarships.gov.in
+SCH386466,Private Need-based Scholarship for Science,61773,Assam,Need-based,2026,ST,Male,72,Medical,2025-04-07,2025-05-08,contact@assamscholarships.gov.in
+SCH869135,State Minority Scholarship for Science,14740,Haryana,Minority,2024,SC,Female,76,Commerce,2025-03-09,2025-05-17,contact@haryanascholarships.gov.in
+SCH670516,National Merit-based Scholarship for Arts,60202,West Bengal,Merit-based,2024,All,Male,90,Commerce,2025-03-15,2025-05-10,contact@westbengalscholarships.gov.in
+SCH710963,Private Research Scholarship for Arts,301492,Andhra Pradesh,Research,2026,SC,All,82,Arts,2025-04-10,2025-06-29,contact@andhrapradeshscholarships.gov.in
+SCH432270,National Minority Scholarship for Engineering,25897,Tamil Nadu,Minority,2023,SC,Male,80,Commerce,2025-04-14,2025-05-28,contact@tamilnaduscholarships.gov.in
+SCH106775,National Sports Scholarship for Medical,11562,Rajasthan,Sports,2024,SC,All,53,Medical,2025-03-22,2025-06-02,contact@rajasthanscholarships.gov.in
+SCH148285,National Minority Scholarship for Medical,20502,Tamil Nadu,Minority,2025,All,Male,95,Any,2025-04-13,2025-06-02,contact@tamilnaduscholarships.gov.in
+SCH291081,Private Sports Scholarship for Medical,41903,Rajasthan,Sports,2026,All,Female,61,Science,2025-05-06,2025-06-17,contact@rajasthanscholarships.gov.in
+SCH767480,National Merit-based Scholarship for Medical,88861,Assam,Merit-based,2026,General,Female,89,Medical,2025-03-21,2025-04-21,contact@assamscholarships.gov.in
+SCH375586,Private Minority Scholarship for Medical,26206,Gujarat,Minority,2024,All,All,59,Engineering,2025-03-10,2025-04-10,contact@gujaratscholarships.gov.in
+SCH905939,State Merit-based Scholarship for Any,96787,Rajasthan,Merit-based,2023,SC,Female,70,Medical,2025-04-01,2025-06-07,contact@rajasthanscholarships.gov.in
+SCH93942,State Women-specific Scholarship for Any,36929,Haryana,Women-specific,2024,All,All,89,Arts,2025-04-17,2025-06-06,contact@haryanascholarships.gov.in
+SCH631146,Private Women-specific Scholarship for Medical,29797,Karnataka,Women-specific,2025,OBC,Male,50,Any,2025-03-26,2025-06-10,contact@karnatakascholarships.gov.in
+SCH189973,National Sports Scholarship for Medical,44478,Tamil Nadu,Sports,2024,All,Male,81,Medical,2025-03-27,2025-06-23,contact@tamilnaduscholarships.gov.in
+SCH705007,National Women-specific Scholarship for Medical,27728,Punjab,Women-specific,2023,SC,Female,50,Arts,2025-03-27,2025-05-06,contact@punjabscholarships.gov.in
+SCH50924,Private Need-based Scholarship for Engineering,55938,Himachal Pradesh,Need-based,2023,General,Male,74,Science,2025-03-23,2025-06-11,contact@himachalpradeshscholarships.gov.in
+SCH710289,State Need-based Scholarship for Science,59638,Telangana,Need-based,2026,General,Female,86,Any,2025-03-29,2025-06-01,contact@telanganascholarships.gov.in
+SCH129699,State Need-based Scholarship for Engineering,14379,Karnataka,Need-based,2025,SC,Male,54,Arts,2025-03-25,2025-04-25,contact@karnatakascholarships.gov.in
+SCH514186,National Research Scholarship for Any,89322,Haryana,Research,2023,SC,All,89,Science,2025-04-11,2025-07-10,contact@haryanascholarships.gov.in
+SCH578455,Private Research Scholarship for Medical,368409,Andhra Pradesh,Research,2024,General,Male,71,Medical,2025-05-02,2025-06-28,contact@andhrapradeshscholarships.gov.in
+SCH494630,Private Research Scholarship for Commerce,428555,Himachal Pradesh,Research,2025,SC,Female,65,Engineering,2025-05-05,2025-07-20,contact@himachalpradeshscholarships.gov.in
+SCH149839,Private Research Scholarship for Commerce,490325,Assam,Research,2023,SC,Male,77,Engineering,2025-04-07,2025-05-16,contact@assamscholarships.gov.in
+SCH638317,Private Women-specific Scholarship for Commerce,36478,Maharashtra,Women-specific,2023,OBC,Male,90,Arts,2025-03-19,2025-04-24,contact@maharashtrascholarships.gov.in
+SCH537856,National Research Scholarship for Arts,461501,Bihar,Research,2026,SC,Male,91,Commerce,2025-04-01,2025-05-31,contact@biharscholarships.gov.in
+SCH993551,State Need-based Scholarship for Science,58418,Tamil Nadu,Need-based,2023,SC,Female,79,Arts,2025-03-18,2025-05-15,contact@tamilnaduscholarships.gov.in
+SCH886102,Private Minority Scholarship for Engineering,14904,Karnataka,Minority,2023,General,All,72,Commerce,2025-04-24,2025-07-07,contact@karnatakascholarships.gov.in
+SCH277116,National Sports Scholarship for Commerce,8996,Telangana,Sports,2026,All,All,80,Commerce,2025-04-29,2025-06-22,contact@telanganascholarships.gov.in
+SCH68687,State Research Scholarship for Engineering,256991,Karnataka,Research,2023,All,All,83,Commerce,2025-05-03,2025-07-26,contact@karnatakascholarships.gov.in
+SCH547260,State Merit-based Scholarship for Medical,31910,Gujarat,Merit-based,2024,OBC,Male,77,Engineering,2025-03-20,2025-06-09,contact@gujaratscholarships.gov.in
+SCH90486,Private Need-based Scholarship for Medical,87994,Telangana,Need-based,2023,General,Female,85,Science,2025-03-23,2025-05-12,contact@telanganascholarships.gov.in
+SCH584889,Private Minority Scholarship for Science,5810,Punjab,Minority,2026,General,Female,59,Medical,2025-04-26,2025-07-09,contact@punjabscholarships.gov.in
+SCH672415,Private Merit-based Scholarship for Engineering,47498,Delhi,Merit-based,2025,ST,Female,74,Any,2025-05-01,2025-07-04,contact@delhischolarships.gov.in
+SCH165506,Private Sports Scholarship for Science,7455,West Bengal,Sports,2026,OBC,All,88,Any,2025-03-18,2025-05-04,contact@westbengalscholarships.gov.in
+SCH329599,State Merit-based Scholarship for Arts,41139,Tamil Nadu,Merit-based,2026,SC,Female,51,Arts,2025-03-10,2025-05-26,contact@tamilnaduscholarships.gov.in
+SCH100543,State Minority Scholarship for Science,49882,Maharashtra,Minority,2024,OBC,Female,78,Arts,2025-03-13,2025-06-06,contact@maharashtrascholarships.gov.in
+SCH564157,State Women-specific Scholarship for Commerce,47307,Kerala,Women-specific,2026,OBC,Female,81,Commerce,2025-03-12,2025-04-23,contact@keralascholarships.gov.in
+SCH196610,Private Merit-based Scholarship for Medical,18600,Rajasthan,Merit-based,2026,OBC,All,86,Engineering,2025-03-26,2025-06-09,contact@rajasthanscholarships.gov.in
+SCH221335,National Need-based Scholarship for Engineering,42701,Haryana,Need-based,2023,SC,All,62,Arts,2025-03-09,2025-05-07,contact@haryanascholarships.gov.in
+SCH23507,Private Research Scholarship for Science,383137,Rajasthan,Research,2023,OBC,Female,81,Commerce,2025-05-05,2025-06-11,contact@rajasthanscholarships.gov.in
+SCH851075,State Need-based Scholarship for Commerce,82264,Uttar Pradesh,Need-based,2024,SC,All,94,Engineering,2025-03-29,2025-05-20,contact@uttarpradeshscholarships.gov.in
+SCH309613,State Merit-based Scholarship for Engineering,31352,Maharashtra,Merit-based,2024,OBC,All,64,Any,2025-04-30,2025-07-05,contact@maharashtrascholarships.gov.in
+SCH520589,Private Minority Scholarship for Science,38638,Himachal Pradesh,Minority,2023,ST,Male,91,Medical,2025-03-08,2025-06-01,contact@himachalpradeshscholarships.gov.in
+SCH36137,State Need-based Scholarship for Commerce,50037,Andhra Pradesh,Need-based,2025,ST,Female,72,Science,2025-04-21,2025-07-05,contact@andhrapradeshscholarships.gov.in
+SCH160938,State Need-based Scholarship for Arts,98761,Kerala,Need-based,2026,All,Male,50,Commerce,2025-04-09,2025-06-30,contact@keralascholarships.gov.in
+SCH405834,Private Sports Scholarship for Commerce,44914,Rajasthan,Sports,2023,ST,Male,71,Arts,2025-03-25,2025-05-13,contact@rajasthanscholarships.gov.in
+SCH824308,State Minority Scholarship for Any,47694,Punjab,Minority,2024,All,Male,53,Commerce,2025-03-26,2025-05-07,contact@punjabscholarships.gov.in
+SCH898612,State Women-specific Scholarship for Any,14170,Tamil Nadu,Women-specific,2026,SC,Female,76,Science,2025-04-22,2025-05-23,contact@tamilnaduscholarships.gov.in
+SCH515374,National Women-specific Scholarship for Commerce,42489,Tamil Nadu,Women-specific,2025,OBC,All,84,Any,2025-04-28,2025-06-09,contact@tamilnaduscholarships.gov.in
+SCH202306,State Women-specific Scholarship for Commerce,24673,West Bengal,Women-specific,2024,SC,Male,80,Medical,2025-04-30,2025-06-09,contact@westbengalscholarships.gov.in
+SCH893691,Private Women-specific Scholarship for Medical,49545,Kerala,Women-specific,2023,OBC,Female,64,Any,2025-05-03,2025-06-23,contact@keralascholarships.gov.in
+SCH567935,State Research Scholarship for Arts,186608,Maharashtra,Research,2026,General,Female,53,Any,2025-04-13,2025-05-31,contact@maharashtrascholarships.gov.in
+SCH579201,National Research Scholarship for Commerce,112818,Bihar,Research,2026,All,Female,76,Engineering,2025-05-01,2025-07-13,contact@biharscholarships.gov.in
+SCH490864,National Need-based Scholarship for Arts,63633,Gujarat,Need-based,2026,OBC,Female,95,Medical,2025-04-12,2025-07-08,contact@gujaratscholarships.gov.in
+SCH890110,State Research Scholarship for Any,142706,Bihar,Research,2023,General,Female,67,Medical,2025-03-27,2025-06-05,contact@biharscholarships.gov.in
+SCH763604,National Sports Scholarship for Science,10769,Haryana,Sports,2026,ST,Female,77,Science,2025-03-15,2025-05-23,contact@haryanascholarships.gov.in
+SCH521936,National Merit-based Scholarship for Commerce,36137,Tamil Nadu,Merit-based,2023,SC,All,62,Engineering,2025-04-22,2025-06-14,contact@tamilnaduscholarships.gov.in
+SCH489220,Private Women-specific Scholarship for Medical,19828,Andhra Pradesh,Women-specific,2025,SC,Male,56,Science,2025-04-20,2025-07-15,contact@andhrapradeshscholarships.gov.in
+SCH190113,National Need-based Scholarship for Engineering,49085,Maharashtra,Need-based,2026,All,All,83,Arts,2025-05-06,2025-06-23,contact@maharashtrascholarships.gov.in
+SCH733609,National Women-specific Scholarship for Arts,37124,Telangana,Women-specific,2024,OBC,Female,51,Medical,2025-03-29,2025-06-15,contact@telanganascholarships.gov.in
+SCH879934,National Women-specific Scholarship for Medical,6436,Karnataka,Women-specific,2024,General,Female,95,Any,2025-04-13,2025-06-14,contact@karnatakascholarships.gov.in
+SCH304403,Private Research Scholarship for Arts,454356,Assam,Research,2023,All,Male,92,Engineering,2025-04-10,2025-06-18,contact@assamscholarships.gov.in
+SCH766142,Private Merit-based Scholarship for Engineering,64627,Andhra Pradesh,Merit-based,2023,All,Female,80,Any,2025-04-04,2025-05-28,contact@andhrapradeshscholarships.gov.in
+SCH415132,Private Need-based Scholarship for Any,92616,Gujarat,Need-based,2026,General,All,83,Arts,2025-03-07,2025-04-25,contact@gujaratscholarships.gov.in
+SCH879822,National Research Scholarship for Commerce,426840,Gujarat,Research,2025,General,Male,81,Medical,2025-04-15,2025-05-22,contact@gujaratscholarships.gov.in
+SCH534312,Private Minority Scholarship for Medical,28456,Himachal Pradesh,Minority,2025,OBC,Male,85,Science,2025-04-21,2025-06-16,contact@himachalpradeshscholarships.gov.in
+SCH175824,State Women-specific Scholarship for Arts,20368,Himachal Pradesh,Women-specific,2023,General,All,92,Science,2025-03-07,2025-04-06,contact@himachalpradeshscholarships.gov.in
+SCH723993,Private Merit-based Scholarship for Engineering,23276,Gujarat,Merit-based,2024,ST,Female,66,Science,2025-05-03,2025-06-18,contact@gujaratscholarships.gov.in
+SCH266734,National Merit-based Scholarship for Engineering,48085,Assam,Merit-based,2025,ST,All,57,Engineering,2025-03-30,2025-06-19,contact@assamscholarships.gov.in
+SCH387323,National Merit-based Scholarship for Any,94829,Assam,Merit-based,2025,ST,All,67,Any,2025-03-17,2025-05-07,contact@assamscholarships.gov.in
+SCH493652,State Minority Scholarship for Medical,12460,Bihar,Minority,2026,SC,Female,94,Science,2025-04-01,2025-05-26,contact@biharscholarships.gov.in
+SCH893557,National Women-specific Scholarship for Engineering,13684,Telangana,Women-specific,2023,OBC,Male,76,Commerce,2025-04-20,2025-07-05,contact@telanganascholarships.gov.in
+SCH833900,Private Sports Scholarship for Science,16879,West Bengal,Sports,2025,All,Male,93,Any,2025-04-15,2025-06-08,contact@westbengalscholarships.gov.in
+SCH915843,State Research Scholarship for Engineering,265631,Gujarat,Research,2023,SC,All,70,Engineering,2025-04-04,2025-05-06,contact@gujaratscholarships.gov.in
+SCH995311,State Women-specific Scholarship for Commerce,39282,Karnataka,Women-specific,2023,ST,All,65,Science,2025-04-20,2025-07-03,contact@karnatakascholarships.gov.in
+SCH925236,Private Women-specific Scholarship for Any,30223,Rajasthan,Women-specific,2023,General,All,60,Commerce,2025-03-16,2025-06-07,contact@rajasthanscholarships.gov.in
+SCH324021,National Research Scholarship for Engineering,443965,West Bengal,Research,2024,SC,Female,53,Commerce,2025-04-07,2025-05-27,contact@westbengalscholarships.gov.in
+SCH831785,Private Sports Scholarship for Science,31429,Karnataka,Sports,2023,ST,Female,86,Science,2025-04-28,2025-06-12,contact@karnatakascholarships.gov.in
+SCH48065,State Research Scholarship for Arts,112236,Bihar,Research,2023,General,Female,76,Engineering,2025-04-07,2025-06-23,contact@biharscholarships.gov.in
+SCH398550,Private Merit-based Scholarship for Commerce,93563,Andhra Pradesh,Merit-based,2024,ST,Female,73,Engineering,2025-03-26,2025-06-20,contact@andhrapradeshscholarships.gov.in
+SCH715131,State Research Scholarship for Commerce,452347,Karnataka,Research,2026,SC,All,78,Engineering,2025-04-15,2025-06-22,contact@karnatakascholarships.gov.in
+SCH849017,National Women-specific Scholarship for Engineering,27371,Delhi,Women-specific,2025,All,All,73,Any,2025-03-29,2025-06-20,contact@delhischolarships.gov.in
+SCH903238,National Merit-based Scholarship for Science,28408,Delhi,Merit-based,2026,General,Female,89,Medical,2025-04-28,2025-07-12,contact@delhischolarships.gov.in
+SCH517930,State Merit-based Scholarship for Medical,69905,Himachal Pradesh,Merit-based,2024,SC,Male,76,Engineering,2025-04-28,2025-07-17,contact@himachalpradeshscholarships.gov.in
+SCH678066,State Research Scholarship for Any,358971,Delhi,Research,2026,General,All,53,Commerce,2025-04-08,2025-05-16,contact@delhischolarships.gov.in
+SCH48200,State Sports Scholarship for Commerce,16613,Telangana,Sports,2024,OBC,Male,74,Any,2025-04-20,2025-06-26,contact@telanganascholarships.gov.in
+SCH319098,State Sports Scholarship for Science,44911,Punjab,Sports,2024,SC,Female,71,Arts,2025-05-04,2025-07-17,contact@punjabscholarships.gov.in
+SCH280997,National Need-based Scholarship for Science,88974,Uttar Pradesh,Need-based,2025,All,Female,95,Any,2025-04-20,2025-07-15,contact@uttarpradeshscholarships.gov.in
+SCH937298,National Need-based Scholarship for Commerce,48086,Himachal Pradesh,Need-based,2024,OBC,All,84,Any,2025-04-19,2025-06-10,contact@himachalpradeshscholarships.gov.in
+SCH682291,National Women-specific Scholarship for Arts,41849,Punjab,Women-specific,2026,All,Female,77,Engineering,2025-04-06,2025-06-12,contact@punjabscholarships.gov.in
+SCH264532,State Merit-based Scholarship for Medical,16955,Delhi,Merit-based,2024,SC,Male,68,Any,2025-04-18,2025-05-21,contact@delhischolarships.gov.in
+SCH415726,National Need-based Scholarship for Any,48684,Kerala,Need-based,2023,SC,Female,56,Commerce,2025-03-20,2025-06-06,contact@keralascholarships.gov.in
+SCH836373,Private Women-specific Scholarship for Commerce,30486,Karnataka,Women-specific,2025,General,Female,74,Science,2025-03-22,2025-05-23,contact@karnatakascholarships.gov.in
+SCH680527,National Sports Scholarship for Engineering,21471,Punjab,Sports,2026,OBC,All,95,Any,2025-03-19,2025-05-27,contact@punjabscholarships.gov.in
+SCH633373,Private Sports Scholarship for Any,44543,Rajasthan,Sports,2024,SC,Female,61,Any,2025-03-19,2025-06-06,contact@rajasthanscholarships.gov.in
+SCH706471,National Need-based Scholarship for Any,77350,Bihar,Need-based,2023,ST,Female,85,Arts,2025-03-14,2025-05-07,contact@biharscholarships.gov.in
+SCH433983,Private Need-based Scholarship for Arts,10739,Gujarat,Need-based,2024,General,Male,70,Commerce,2025-03-28,2025-05-26,contact@gujaratscholarships.gov.in
+SCH812253,Private Women-specific Scholarship for Any,24736,Assam,Women-specific,2025,General,All,70,Commerce,2025-04-07,2025-06-26,contact@assamscholarships.gov.in
+SCH558866,Private Need-based Scholarship for Engineering,76209,Karnataka,Need-based,2026,General,Female,64,Medical,2025-03-17,2025-05-12,contact@karnatakascholarships.gov.in
+SCH264580,State Minority Scholarship for Arts,19316,Punjab,Minority,2026,All,All,50,Engineering,2025-05-06,2025-07-23,contact@punjabscholarships.gov.in
+SCH187019,National Research Scholarship for Any,371756,Rajasthan,Research,2024,General,All,70,Science,2025-05-04,2025-07-12,contact@rajasthanscholarships.gov.in
+SCH704508,State Research Scholarship for Commerce,429571,Delhi,Research,2025,All,All,78,Science,2025-03-25,2025-04-25,contact@delhischolarships.gov.in
+SCH978848,Private Minority Scholarship for Medical,25992,Assam,Minority,2023,OBC,All,84,Engineering,2025-04-08,2025-05-13,contact@assamscholarships.gov.in
+SCH938529,Private Need-based Scholarship for Any,37941,Bihar,Need-based,2026,General,Male,84,Any,2025-05-01,2025-07-13,contact@biharscholarships.gov.in
+SCH357557,National Women-specific Scholarship for Any,49960,Telangana,Women-specific,2026,SC,Male,55,Engineering,2025-03-16,2025-04-16,contact@telanganascholarships.gov.in
+SCH883118,State Need-based Scholarship for Commerce,19232,Assam,Need-based,2024,SC,Female,74,Science,2025-04-12,2025-07-03,contact@assamscholarships.gov.in
+SCH701290,State Research Scholarship for Engineering,254211,Tamil Nadu,Research,2023,All,Male,87,Engineering,2025-04-19,2025-05-26,contact@tamilnaduscholarships.gov.in
+SCH349654,Private Minority Scholarship for Engineering,23994,Bihar,Minority,2025,All,Male,68,Science,2025-04-26,2025-07-08,contact@biharscholarships.gov.in
+SCH320378,Private Research Scholarship for Engineering,298506,Tamil Nadu,Research,2024,OBC,All,75,Commerce,2025-03-17,2025-05-20,contact@tamilnaduscholarships.gov.in
+SCH486441,National Women-specific Scholarship for Arts,49386,Maharashtra,Women-specific,2025,General,All,85,Medical,2025-05-02,2025-07-29,contact@maharashtrascholarships.gov.in
+SCH930321,National Merit-based Scholarship for Commerce,88204,Delhi,Merit-based,2023,SC,Male,72,Medical,2025-04-01,2025-06-04,contact@delhischolarships.gov.in
+SCH727218,Private Women-specific Scholarship for Medical,15548,Telangana,Women-specific,2025,OBC,Male,61,Any,2025-03-18,2025-05-01,contact@telanganascholarships.gov.in
+SCH482329,State Sports Scholarship for Any,41022,Assam,Sports,2023,SC,Male,62,Any,2025-03-11,2025-04-28,contact@assamscholarships.gov.in
+SCH373459,State Minority Scholarship for Medical,48994,West Bengal,Minority,2023,SC,All,54,Medical,2025-04-17,2025-06-01,contact@westbengalscholarships.gov.in
+SCH707271,State Research Scholarship for Arts,373140,Punjab,Research,2024,All,All,73,Arts,2025-04-18,2025-06-06,contact@punjabscholarships.gov.in
+SCH548743,National Need-based Scholarship for Arts,42266,Telangana,Need-based,2026,SC,Female,58,Any,2025-04-26,2025-06-09,contact@telanganascholarships.gov.in
+SCH770111,State Research Scholarship for Science,238083,Punjab,Research,2026,All,Male,61,Any,2025-04-25,2025-06-13,contact@punjabscholarships.gov.in
+SCH133566,National Minority Scholarship for Commerce,17873,Bihar,Minority,2023,General,Male,82,Any,2025-03-23,2025-06-07,contact@biharscholarships.gov.in
+SCH886451,Private Sports Scholarship for Science,43668,Andhra Pradesh,Sports,2023,All,Female,84,Commerce,2025-03-20,2025-06-16,contact@andhrapradeshscholarships.gov.in
+SCH851990,National Women-specific Scholarship for Arts,30722,West Bengal,Women-specific,2025,OBC,Female,82,Commerce,2025-03-21,2025-06-16,contact@westbengalscholarships.gov.in
+SCH661822,State Research Scholarship for Commerce,55553,Bihar,Research,2024,All,Male,78,Medical,2025-04-18,2025-06-02,contact@biharscholarships.gov.in
+SCH958438,Private Sports Scholarship for Any,14581,Haryana,Sports,2026,SC,Male,64,Science,2025-04-23,2025-07-08,contact@haryanascholarships.gov.in
+SCH943327,State Merit-based Scholarship for Arts,40673,Karnataka,Merit-based,2024,All,Female,74,Science,2025-03-09,2025-05-20,contact@karnatakascholarships.gov.in
+SCH633498,National Merit-based Scholarship for Any,52476,Uttar Pradesh,Merit-based,2025,SC,All,84,Commerce,2025-03-13,2025-05-27,contact@uttarpradeshscholarships.gov.in
+SCH61204,Private Research Scholarship for Science,241520,Haryana,Research,2023,All,Female,74,Medical,2025-04-13,2025-06-23,contact@haryanascholarships.gov.in
+SCH582602,State Minority Scholarship for Science,36595,Tamil Nadu,Minority,2023,All,Male,78,Medical,2025-05-02,2025-07-09,contact@tamilnaduscholarships.gov.in
+SCH451908,Private Merit-based Scholarship for Any,46806,Karnataka,Merit-based,2024,OBC,Female,88,Any,2025-03-20,2025-04-28,contact@karnatakascholarships.gov.in
+SCH901598,National Women-specific Scholarship for Science,26641,Delhi,Women-specific,2026,ST,Female,63,Commerce,2025-04-22,2025-05-29,contact@delhischolarships.gov.in
+SCH637241,State Women-specific Scholarship for Engineering,20969,Haryana,Women-specific,2024,OBC,All,82,Engineering,2025-03-09,2025-04-16,contact@haryanascholarships.gov.in
+SCH759194,National Merit-based Scholarship for Arts,33597,Gujarat,Merit-based,2023,SC,Male,63,Science,2025-04-09,2025-06-03,contact@gujaratscholarships.gov.in
+SCH835904,National Research Scholarship for Medical,485349,West Bengal,Research,2024,All,Male,89,Any,2025-04-02,2025-06-09,contact@westbengalscholarships.gov.in
+SCH355497,Private Need-based Scholarship for Any,54914,Kerala,Need-based,2023,OBC,Female,74,Medical,2025-05-05,2025-07-03,contact@keralascholarships.gov.in
+SCH669246,National Merit-based Scholarship for Commerce,76107,Delhi,Merit-based,2024,All,Male,61,Science,2025-04-19,2025-06-14,contact@delhischolarships.gov.in
+SCH694411,Private Sports Scholarship for Engineering,11107,Assam,Sports,2024,All,All,50,Any,2025-04-06,2025-06-17,contact@assamscholarships.gov.in
+SCH326425,State Sports Scholarship for Arts,7846,Telangana,Sports,2026,OBC,Female,74,Arts,2025-04-20,2025-06-22,contact@telanganascholarships.gov.in
+SCH152888,National Research Scholarship for Arts,300159,Delhi,Research,2023,SC,All,84,Science,2025-04-25,2025-06-08,contact@delhischolarships.gov.in
+SCH425217,National Need-based Scholarship for Any,10932,Kerala,Need-based,2023,All,Male,74,Any,2025-04-12,2025-06-14,contact@keralascholarships.gov.in
+SCH227618,State Women-specific Scholarship for Science,28741,Himachal Pradesh,Women-specific,2026,All,Female,66,Commerce,2025-03-13,2025-04-21,contact@himachalpradeshscholarships.gov.in
+SCH314907,State Sports Scholarship for Commerce,23059,Telangana,Sports,2024,ST,All,85,Science,2025-04-19,2025-06-13,contact@telanganascholarships.gov.in
+SCH464357,Private Minority Scholarship for Commerce,36703,Haryana,Minority,2025,ST,All,58,Any,2025-03-23,2025-05-11,contact@haryanascholarships.gov.in
+SCH549508,National Women-specific Scholarship for Science,15603,Delhi,Women-specific,2026,SC,All,89,Any,2025-03-13,2025-04-25,contact@delhischolarships.gov.in
+SCH257851,State Need-based Scholarship for Any,10693,Assam,Need-based,2024,ST,All,77,Engineering,2025-04-27,2025-06-01,contact@assamscholarships.gov.in
+SCH118266,National Minority Scholarship for Arts,10245,Bihar,Minority,2026,ST,All,91,Commerce,2025-04-14,2025-05-16,contact@biharscholarships.gov.in
+SCH905633,Private Women-specific Scholarship for Engineering,16486,Maharashtra,Women-specific,2026,General,Male,92,Commerce,2025-04-16,2025-06-16,contact@maharashtrascholarships.gov.in
+SCH681697,National Need-based Scholarship for Commerce,76918,Maharashtra,Need-based,2024,All,Male,93,Engineering,2025-04-09,2025-06-22,contact@maharashtrascholarships.gov.in
+SCH535882,Private Need-based Scholarship for Engineering,30636,Rajasthan,Need-based,2026,SC,All,75,Science,2025-03-12,2025-04-28,contact@rajasthanscholarships.gov.in
+SCH385302,National Sports Scholarship for Any,9496,Himachal Pradesh,Sports,2025,All,All,72,Arts,2025-05-04,2025-06-08,contact@himachalpradeshscholarships.gov.in
+SCH153658,Private Need-based Scholarship for Medical,69606,Kerala,Need-based,2023,SC,Male,76,Commerce,2025-05-05,2025-06-29,contact@keralascholarships.gov.in
+SCH714347,National Sports Scholarship for Commerce,24284,Delhi,Sports,2023,All,Female,84,Commerce,2025-03-28,2025-06-26,contact@delhischolarships.gov.in
+SCH280093,State Women-specific Scholarship for Science,41907,Kerala,Women-specific,2024,SC,Female,93,Science,2025-04-06,2025-06-24,contact@keralascholarships.gov.in
+SCH492047,National Research Scholarship for Arts,85417,Andhra Pradesh,Research,2024,OBC,Female,76,Arts,2025-03-31,2025-06-09,contact@andhrapradeshscholarships.gov.in
+SCH874586,State Women-specific Scholarship for Medical,23827,Andhra Pradesh,Women-specific,2025,General,All,61,Science,2025-03-12,2025-05-06,contact@andhrapradeshscholarships.gov.in
+SCH942778,National Minority Scholarship for Commerce,22634,Punjab,Minority,2024,ST,All,62,Medical,2025-03-18,2025-06-16,contact@punjabscholarships.gov.in
+SCH272227,National Minority Scholarship for Medical,18288,Karnataka,Minority,2025,OBC,Male,57,Engineering,2025-04-29,2025-06-13,contact@karnatakascholarships.gov.in
+SCH53536,National Sports Scholarship for Commerce,7769,West Bengal,Sports,2025,All,Female,81,Commerce,2025-04-30,2025-06-29,contact@westbengalscholarships.gov.in
+SCH394354,National Research Scholarship for Commerce,196940,Kerala,Research,2024,General,All,77,Science,2025-04-01,2025-05-15,contact@keralascholarships.gov.in
+SCH362643,State Sports Scholarship for Science,49979,Assam,Sports,2026,General,All,83,Science,2025-04-25,2025-06-05,contact@assamscholarships.gov.in
+SCH620136,National Women-specific Scholarship for Engineering,49178,Punjab,Women-specific,2023,SC,Female,89,Arts,2025-03-20,2025-05-13,contact@punjabscholarships.gov.in
+SCH635662,State Sports Scholarship for Medical,22655,Haryana,Sports,2025,SC,Male,81,Science,2025-04-06,2025-06-14,contact@haryanascholarships.gov.in
+SCH916928,Private Research Scholarship for Arts,241406,Himachal Pradesh,Research,2025,ST,Male,86,Medical,2025-04-30,2025-06-24,contact@himachalpradeshscholarships.gov.in
+SCH206836,Private Merit-based Scholarship for Arts,40907,Karnataka,Merit-based,2026,OBC,Male,59,Science,2025-04-11,2025-06-07,contact@karnatakascholarships.gov.in
+SCH200700,State Need-based Scholarship for Science,27625,Andhra Pradesh,Need-based,2025,ST,Female,66,Commerce,2025-05-03,2025-07-26,contact@andhrapradeshscholarships.gov.in
+SCH624815,National Research Scholarship for Any,135638,Assam,Research,2025,ST,All,56,Science,2025-03-10,2025-04-22,contact@assamscholarships.gov.in
+SCH885642,State Minority Scholarship for Arts,41723,Punjab,Minority,2025,SC,Male,76,Engineering,2025-04-11,2025-07-09,contact@punjabscholarships.gov.in
+SCH18581,Private Women-specific Scholarship for Medical,42804,Rajasthan,Women-specific,2024,SC,Female,70,Any,2025-04-12,2025-06-22,contact@rajasthanscholarships.gov.in
+SCH362774,State Women-specific Scholarship for Engineering,29973,West Bengal,Women-specific,2026,OBC,Male,90,Arts,2025-04-15,2025-06-02,contact@westbengalscholarships.gov.in
+SCH812538,Private Women-specific Scholarship for Commerce,31527,Telangana,Women-specific,2023,General,Male,71,Medical,2025-04-30,2025-07-27,contact@telanganascholarships.gov.in
+SCH350003,Private Minority Scholarship for Arts,22529,Punjab,Minority,2026,SC,Female,73,Any,2025-04-14,2025-06-24,contact@punjabscholarships.gov.in
+SCH481589,National Research Scholarship for Medical,497853,Uttar Pradesh,Research,2024,SC,All,94,Any,2025-03-08,2025-04-15,contact@uttarpradeshscholarships.gov.in
+SCH10701,National Need-based Scholarship for Science,23501,Bihar,Need-based,2026,All,Male,51,Science,2025-03-13,2025-04-16,contact@biharscholarships.gov.in
+SCH330200,State Merit-based Scholarship for Commerce,30352,Bihar,Merit-based,2026,SC,Male,65,Any,2025-03-12,2025-05-22,contact@biharscholarships.gov.in
+SCH413346,Private Research Scholarship for Medical,118827,Maharashtra,Research,2024,General,Male,92,Arts,2025-04-09,2025-07-01,contact@maharashtrascholarships.gov.in
+SCH171200,State Research Scholarship for Commerce,192823,Punjab,Research,2024,All,Male,87,Commerce,2025-04-11,2025-06-08,contact@punjabscholarships.gov.in
+SCH238695,Private Women-specific Scholarship for Any,41961,Uttar Pradesh,Women-specific,2025,SC,Female,84,Medical,2025-04-03,2025-06-05,contact@uttarpradeshscholarships.gov.in
+SCH919603,State Research Scholarship for Arts,266113,Bihar,Research,2025,General,Male,83,Medical,2025-03-23,2025-05-01,contact@biharscholarships.gov.in
+SCH310835,State Minority Scholarship for Commerce,5545,Rajasthan,Minority,2026,ST,Female,50,Science,2025-04-20,2025-07-18,contact@rajasthanscholarships.gov.in
+SCH752431,National Sports Scholarship for Engineering,40927,Maharashtra,Sports,2026,All,Female,75,Medical,2025-03-30,2025-05-11,contact@maharashtrascholarships.gov.in
+SCH791302,Private Women-specific Scholarship for Any,30540,Haryana,Women-specific,2024,SC,Male,77,Any,2025-04-29,2025-06-22,contact@haryanascholarships.gov.in
+SCH66990,Private Sports Scholarship for Any,49868,Karnataka,Sports,2025,ST,Male,54,Medical,2025-03-24,2025-05-11,contact@karnatakascholarships.gov.in
+SCH486802,National Minority Scholarship for Any,34841,Gujarat,Minority,2025,All,Female,62,Arts,2025-04-15,2025-06-12,contact@gujaratscholarships.gov.in
+SCH92690,National Need-based Scholarship for Commerce,12900,Andhra Pradesh,Need-based,2025,SC,Male,95,Science,2025-03-18,2025-04-23,contact@andhrapradeshscholarships.gov.in
+SCH826936,National Need-based Scholarship for Medical,11930,Andhra Pradesh,Need-based,2025,ST,Female,81,Arts,2025-04-07,2025-05-20,contact@andhrapradeshscholarships.gov.in
+SCH693462,National Women-specific Scholarship for Arts,10257,Uttar Pradesh,Women-specific,2024,General,Female,75,Engineering,2025-04-29,2025-07-16,contact@uttarpradeshscholarships.gov.in
+SCH51653,National Need-based Scholarship for Arts,60014,West Bengal,Need-based,2023,OBC,Female,78,Medical,2025-04-29,2025-05-29,contact@westbengalscholarships.gov.in
+SCH272952,State Need-based Scholarship for Any,22315,Assam,Need-based,2024,ST,Female,93,Arts,2025-04-09,2025-06-20,contact@assamscholarships.gov.in
+SCH775582,Private Need-based Scholarship for Any,15529,Punjab,Need-based,2023,SC,Female,90,Arts,2025-04-23,2025-07-21,contact@punjabscholarships.gov.in
+SCH499066,National Minority Scholarship for Any,19272,Himachal Pradesh,Minority,2026,SC,Male,60,Arts,2025-03-14,2025-04-28,contact@himachalpradeshscholarships.gov.in
+SCH703153,National Research Scholarship for Engineering,72016,Delhi,Research,2026,All,Male,73,Engineering,2025-04-13,2025-07-02,contact@delhischolarships.gov.in
+SCH664335,State Need-based Scholarship for Engineering,99908,Karnataka,Need-based,2023,General,Female,91,Medical,2025-04-15,2025-06-05,contact@karnatakascholarships.gov.in
+SCH659939,State Need-based Scholarship for Medical,51515,Delhi,Need-based,2025,ST,All,62,Engineering,2025-04-11,2025-06-30,contact@delhischolarships.gov.in
+SCH685827,Private Minority Scholarship for Medical,21429,Tamil Nadu,Minority,2026,ST,All,68,Commerce,2025-05-03,2025-06-04,contact@tamilnaduscholarships.gov.in
+SCH722314,Private Need-based Scholarship for Medical,81253,West Bengal,Need-based,2026,SC,All,85,Medical,2025-03-29,2025-05-18,contact@westbengalscholarships.gov.in
+SCH736330,National Sports Scholarship for Science,24377,Bihar,Sports,2025,ST,Male,90,Commerce,2025-04-28,2025-06-13,contact@biharscholarships.gov.in
+SCH166029,National Women-specific Scholarship for Engineering,45614,Tamil Nadu,Women-specific,2024,SC,All,54,Any,2025-04-30,2025-06-22,contact@tamilnaduscholarships.gov.in
+SCH989697,Private Need-based Scholarship for Any,75214,Tamil Nadu,Need-based,2024,All,Female,70,Science,2025-04-25,2025-06-29,contact@tamilnaduscholarships.gov.in
+SCH901880,National Merit-based Scholarship for Commerce,96362,Punjab,Merit-based,2024,OBC,Male,62,Engineering,2025-03-11,2025-04-12,contact@punjabscholarships.gov.in
+SCH31195,National Need-based Scholarship for Engineering,84843,West Bengal,Need-based,2026,ST,All,89,Any,2025-04-17,2025-07-09,contact@westbengalscholarships.gov.in
+SCH240663,State Merit-based Scholarship for Medical,89423,Kerala,Merit-based,2023,OBC,All,81,Engineering,2025-04-21,2025-05-25,contact@keralascholarships.gov.in
+SCH656894,National Women-specific Scholarship for Arts,41570,Uttar Pradesh,Women-specific,2026,SC,All,53,Commerce,2025-04-23,2025-07-22,contact@uttarpradeshscholarships.gov.in
+SCH475392,National Sports Scholarship for Any,9612,Kerala,Sports,2023,OBC,All,56,Engineering,2025-04-29,2025-06-17,contact@keralascholarships.gov.in
+SCH872862,State Sports Scholarship for Medical,17656,Karnataka,Sports,2024,All,All,61,Commerce,2025-04-09,2025-06-20,contact@karnatakascholarships.gov.in
+SCH81745,National Women-specific Scholarship for Any,42785,Telangana,Women-specific,2026,ST,Male,60,Medical,2025-03-29,2025-06-10,contact@telanganascholarships.gov.in
+SCH526798,State Sports Scholarship for Any,15366,Tamil Nadu,Sports,2026,SC,Female,85,Arts,2025-04-10,2025-06-17,contact@tamilnaduscholarships.gov.in
+SCH350491,Private Research Scholarship for Science,483143,Rajasthan,Research,2024,All,All,63,Science,2025-04-22,2025-06-11,contact@rajasthanscholarships.gov.in
+SCH310181,State Minority Scholarship for Science,31023,Kerala,Minority,2023,SC,All,51,Commerce,2025-03-07,2025-05-22,contact@keralascholarships.gov.in
+SCH703072,National Minority Scholarship for Arts,19541,Gujarat,Minority,2025,General,All,67,Commerce,2025-03-20,2025-06-12,contact@gujaratscholarships.gov.in
+SCH436794,National Merit-based Scholarship for Science,56616,Gujarat,Merit-based,2025,SC,All,65,Medical,2025-03-16,2025-04-23,contact@gujaratscholarships.gov.in
+SCH991301,National Minority Scholarship for Commerce,31201,Kerala,Minority,2024,General,All,70,Science,2025-04-12,2025-07-09,contact@keralascholarships.gov.in
+SCH449148,Private Research Scholarship for Any,352111,Haryana,Research,2023,All,All,69,Engineering,2025-04-28,2025-07-25,contact@haryanascholarships.gov.in
+SCH100347,National Merit-based Scholarship for Arts,55603,Tamil Nadu,Merit-based,2026,ST,Male,64,Any,2025-05-02,2025-07-23,contact@tamilnaduscholarships.gov.in
+SCH857653,Private Women-specific Scholarship for Science,8547,Andhra Pradesh,Women-specific,2023,SC,All,86,Medical,2025-03-26,2025-05-28,contact@andhrapradeshscholarships.gov.in
+SCH45681,Private Sports Scholarship for Medical,15039,Punjab,Sports,2026,ST,All,86,Commerce,2025-03-10,2025-05-22,contact@punjabscholarships.gov.in
+SCH784188,State Need-based Scholarship for Arts,61684,Bihar,Need-based,2025,General,Female,86,Any,2025-03-16,2025-04-23,contact@biharscholarships.gov.in
+SCH719501,State Sports Scholarship for Arts,10575,Assam,Sports,2026,OBC,Male,80,Commerce,2025-04-01,2025-06-02,contact@assamscholarships.gov.in
+SCH321905,State Research Scholarship for Any,349541,Himachal Pradesh,Research,2024,OBC,Male,67,Science,2025-03-19,2025-05-23,contact@himachalpradeshscholarships.gov.in
+SCH919358,Private Women-specific Scholarship for Engineering,12374,Punjab,Women-specific,2026,SC,Female,62,Arts,2025-04-18,2025-06-13,contact@punjabscholarships.gov.in
+SCH484145,Private Sports Scholarship for Engineering,24976,Rajasthan,Sports,2026,All,Male,78,Engineering,2025-03-17,2025-05-08,contact@rajasthanscholarships.gov.in
+SCH36530,Private Need-based Scholarship for Arts,30446,Karnataka,Need-based,2023,General,All,53,Medical,2025-04-24,2025-07-09,contact@karnatakascholarships.gov.in
+SCH560509,National Minority Scholarship for Arts,12292,Gujarat,Minority,2026,General,Female,63,Any,2025-03-26,2025-05-23,contact@gujaratscholarships.gov.in
+SCH471101,Private Need-based Scholarship for Commerce,43902,Himachal Pradesh,Need-based,2024,General,Female,87,Any,2025-04-11,2025-06-10,contact@himachalpradeshscholarships.gov.in
+SCH495010,National Minority Scholarship for Engineering,23613,Assam,Minority,2025,General,Female,91,Engineering,2025-03-19,2025-06-07,contact@assamscholarships.gov.in
+SCH506933,Private Research Scholarship for Arts,397593,Bihar,Research,2025,General,Male,68,Any,2025-04-30,2025-07-27,contact@biharscholarships.gov.in
+SCH80806,State Need-based Scholarship for Commerce,23055,Tamil Nadu,Need-based,2026,All,All,55,Medical,2025-05-03,2025-06-22,contact@tamilnaduscholarships.gov.in
+SCH941034,State Sports Scholarship for Commerce,6408,Himachal Pradesh,Sports,2025,SC,Female,75,Any,2025-03-09,2025-04-23,contact@himachalpradeshscholarships.gov.in
+SCH60811,State Merit-based Scholarship for Any,56125,Haryana,Merit-based,2025,OBC,All,67,Engineering,2025-03-29,2025-06-07,contact@haryanascholarships.gov.in
+SCH54623,National Research Scholarship for Commerce,196902,Kerala,Research,2025,ST,All,58,Engineering,2025-03-21,2025-04-29,contact@keralascholarships.gov.in
+SCH285418,Private Sports Scholarship for Commerce,45994,Tamil Nadu,Sports,2026,OBC,All,59,Science,2025-04-19,2025-06-02,contact@tamilnaduscholarships.gov.in
+SCH105405,State Sports Scholarship for Science,40535,Maharashtra,Sports,2024,All,All,93,Medical,2025-03-15,2025-04-27,contact@maharashtrascholarships.gov.in
+SCH585201,Private Minority Scholarship for Any,39328,Gujarat,Minority,2026,OBC,All,86,Medical,2025-05-04,2025-06-11,contact@gujaratscholarships.gov.in
+SCH638468,Private Merit-based Scholarship for Commerce,25517,Punjab,Merit-based,2024,General,Female,76,Science,2025-03-18,2025-05-07,contact@punjabscholarships.gov.in
+SCH838788,Private Research Scholarship for Any,437102,Maharashtra,Research,2024,General,Male,61,Engineering,2025-03-24,2025-05-02,contact@maharashtrascholarships.gov.in
+SCH733462,Private Sports Scholarship for Commerce,20133,Kerala,Sports,2024,General,Female,55,Any,2025-04-14,2025-05-28,contact@keralascholarships.gov.in
+SCH850288,Private Need-based Scholarship for Commerce,71441,West Bengal,Need-based,2025,OBC,Female,81,Science,2025-04-21,2025-07-01,contact@westbengalscholarships.gov.in
+SCH262662,National Need-based Scholarship for Medical,14224,Gujarat,Need-based,2023,SC,Female,64,Any,2025-04-02,2025-06-19,contact@gujaratscholarships.gov.in
+SCH744163,National Need-based Scholarship for Medical,67577,Himachal Pradesh,Need-based,2026,SC,Female,65,Science,2025-05-01,2025-07-09,contact@himachalpradeshscholarships.gov.in
+SCH937320,Private Merit-based Scholarship for Any,59856,Tamil Nadu,Merit-based,2026,All,All,86,Commerce,2025-04-22,2025-06-11,contact@tamilnaduscholarships.gov.in
+SCH675067,National Sports Scholarship for Science,34943,Assam,Sports,2023,OBC,All,84,Science,2025-04-28,2025-07-23,contact@assamscholarships.gov.in
+SCH602388,State Sports Scholarship for Commerce,46330,Assam,Sports,2025,ST,Female,69,Arts,2025-03-10,2025-04-21,contact@assamscholarships.gov.in
+SCH893295,State Need-based Scholarship for Arts,90364,Uttar Pradesh,Need-based,2024,ST,All,78,Engineering,2025-05-04,2025-06-06,contact@uttarpradeshscholarships.gov.in
+SCH456558,Private Need-based Scholarship for Any,81618,Delhi,Need-based,2026,SC,Female,51,Medical,2025-03-15,2025-05-09,contact@delhischolarships.gov.in
+SCH652960,Private Sports Scholarship for Medical,34798,Uttar Pradesh,Sports,2025,OBC,All,57,Engineering,2025-03-12,2025-04-27,contact@uttarpradeshscholarships.gov.in
+SCH921511,State Women-specific Scholarship for Any,28785,Delhi,Women-specific,2026,All,All,60,Science,2025-03-12,2025-05-14,contact@delhischolarships.gov.in
+SCH822481,National Merit-based Scholarship for Arts,84120,Tamil Nadu,Merit-based,2024,OBC,Male,61,Any,2025-05-01,2025-07-12,contact@tamilnaduscholarships.gov.in
+SCH721194,State Research Scholarship for Arts,432815,Assam,Research,2025,OBC,Male,58,Medical,2025-04-25,2025-06-22,contact@assamscholarships.gov.in
+SCH976821,State Sports Scholarship for Engineering,35057,Andhra Pradesh,Sports,2026,All,Male,88,Science,2025-04-07,2025-06-30,contact@andhrapradeshscholarships.gov.in
+SCH191801,Private Need-based Scholarship for Any,72352,Karnataka,Need-based,2026,General,All,88,Engineering,2025-04-05,2025-05-31,contact@karnatakascholarships.gov.in
+SCH511225,State Sports Scholarship for Commerce,46198,Karnataka,Sports,2024,General,Male,59,Engineering,2025-04-11,2025-07-02,contact@karnatakascholarships.gov.in
+SCH785182,National Merit-based Scholarship for Engineering,97424,Rajasthan,Merit-based,2025,SC,Male,53,Engineering,2025-04-12,2025-07-04,contact@rajasthanscholarships.gov.in
+SCH297919,National Need-based Scholarship for Any,47274,Telangana,Need-based,2024,ST,All,87,Arts,2025-04-15,2025-06-26,contact@telanganascholarships.gov.in
+SCH497596,State Merit-based Scholarship for Arts,58309,Assam,Merit-based,2023,ST,All,54,Arts,2025-05-03,2025-06-26,contact@assamscholarships.gov.in
+SCH450397,National Need-based Scholarship for Any,45968,West Bengal,Need-based,2026,All,Male,94,Medical,2025-03-28,2025-05-30,contact@westbengalscholarships.gov.in
+SCH491864,Private Merit-based Scholarship for Any,92441,Assam,Merit-based,2026,All,All,68,Science,2025-04-09,2025-05-14,contact@assamscholarships.gov.in
+SCH737925,Private Minority Scholarship for Commerce,45844,Punjab,Minority,2024,All,All,81,Commerce,2025-03-29,2025-06-26,contact@punjabscholarships.gov.in
+SCH502074,National Research Scholarship for Commerce,172013,West Bengal,Research,2024,General,Male,51,Science,2025-04-21,2025-06-08,contact@westbengalscholarships.gov.in
+SCH83865,National Women-specific Scholarship for Commerce,32173,Delhi,Women-specific,2025,SC,All,90,Medical,2025-04-02,2025-05-04,contact@delhischolarships.gov.in
+SCH472823,National Women-specific Scholarship for Any,23456,Andhra Pradesh,Women-specific,2023,SC,Female,82,Commerce,2025-03-23,2025-06-11,contact@andhrapradeshscholarships.gov.in
+SCH28693,National Merit-based Scholarship for Any,53684,Punjab,Merit-based,2023,OBC,Male,71,Arts,2025-03-28,2025-05-22,contact@punjabscholarships.gov.in
+SCH987896,National Research Scholarship for Any,121174,West Bengal,Research,2026,All,Female,79,Science,2025-04-06,2025-05-15,contact@westbengalscholarships.gov.in
+SCH300288,State Sports Scholarship for Commerce,49446,Assam,Sports,2023,OBC,All,93,Arts,2025-03-27,2025-05-31,contact@assamscholarships.gov.in
+SCH280862,National Merit-based Scholarship for Arts,14085,Rajasthan,Merit-based,2024,All,All,74,Medical,2025-03-28,2025-05-21,contact@rajasthanscholarships.gov.in
+SCH452431,Private Minority Scholarship for Arts,7072,Delhi,Minority,2023,ST,Male,73,Science,2025-03-24,2025-05-19,contact@delhischolarships.gov.in
+SCH875700,Private Need-based Scholarship for Arts,32939,Maharashtra,Need-based,2023,OBC,Male,78,Commerce,2025-03-14,2025-05-06,contact@maharashtrascholarships.gov.in
+SCH58239,Private Research Scholarship for Medical,149725,Andhra Pradesh,Research,2026,All,Female,70,Medical,2025-03-28,2025-06-25,contact@andhrapradeshscholarships.gov.in
+SCH683558,Private Sports Scholarship for Medical,18447,Delhi,Sports,2026,ST,All,83,Engineering,2025-04-22,2025-05-24,contact@delhischolarships.gov.in
+SCH815794,National Minority Scholarship for Any,43947,Andhra Pradesh,Minority,2025,ST,Male,56,Commerce,2025-05-01,2025-06-05,contact@andhrapradeshscholarships.gov.in
+SCH812730,Private Merit-based Scholarship for Arts,93735,Maharashtra,Merit-based,2025,OBC,Male,68,Arts,2025-05-03,2025-06-15,contact@maharashtrascholarships.gov.in
+SCH474246,Private Research Scholarship for Engineering,192949,Punjab,Research,2025,General,Male,89,Commerce,2025-03-16,2025-04-25,contact@punjabscholarships.gov.in
+SCH753809,Private Need-based Scholarship for Arts,82006,Delhi,Need-based,2024,SC,All,65,Medical,2025-03-27,2025-05-13,contact@delhischolarships.gov.in
+SCH570354,Private Minority Scholarship for Arts,40427,Bihar,Minority,2024,General,Female,93,Engineering,2025-04-04,2025-05-07,contact@biharscholarships.gov.in
+SCH310299,National Research Scholarship for Engineering,273590,Delhi,Research,2026,All,Female,69,Arts,2025-04-01,2025-05-12,contact@delhischolarships.gov.in
+SCH326422,Private Women-specific Scholarship for Commerce,10147,Himachal Pradesh,Women-specific,2026,All,Male,55,Any,2025-05-05,2025-07-22,contact@himachalpradeshscholarships.gov.in
+SCH693085,State Merit-based Scholarship for Arts,99715,Uttar Pradesh,Merit-based,2026,ST,Male,64,Medical,2025-04-17,2025-07-01,contact@uttarpradeshscholarships.gov.in
+SCH51292,State Minority Scholarship for Medical,48593,Kerala,Minority,2025,ST,Female,51,Engineering,2025-03-28,2025-06-16,contact@keralascholarships.gov.in
+SCH486927,State Merit-based Scholarship for Science,70455,West Bengal,Merit-based,2025,SC,All,86,Medical,2025-04-30,2025-06-09,contact@westbengalscholarships.gov.in
+SCH818795,Private Research Scholarship for Engineering,220849,Delhi,Research,2023,SC,All,79,Science,2025-04-11,2025-06-21,contact@delhischolarships.gov.in
+SCH504023,Private Need-based Scholarship for Medical,81820,Telangana,Need-based,2026,General,Female,63,Any,2025-03-17,2025-05-16,contact@telanganascholarships.gov.in
+SCH142089,Private Research Scholarship for Arts,335488,Telangana,Research,2024,General,All,95,Commerce,2025-04-20,2025-06-04,contact@telanganascholarships.gov.in
+SCH253161,Private Merit-based Scholarship for Commerce,70674,West Bengal,Merit-based,2023,ST,Male,69,Science,2025-03-27,2025-05-31,contact@westbengalscholarships.gov.in
+SCH40429,National Sports Scholarship for Any,44086,Bihar,Sports,2026,SC,Female,91,Any,2025-04-25,2025-07-16,contact@biharscholarships.gov.in
+SCH110040,National Merit-based Scholarship for Medical,86122,Assam,Merit-based,2023,OBC,All,59,Science,2025-05-03,2025-07-20,contact@assamscholarships.gov.in
+SCH742620,Private Research Scholarship for Commerce,284440,Maharashtra,Research,2025,SC,All,93,Arts,2025-03-19,2025-05-01,contact@maharashtrascholarships.gov.in
+SCH73178,State Women-specific Scholarship for Engineering,43189,Telangana,Women-specific,2026,OBC,Female,53,Arts,2025-03-07,2025-05-15,contact@telanganascholarships.gov.in
+SCH847611,Private Merit-based Scholarship for Commerce,57086,Assam,Merit-based,2025,General,Male,77,Any,2025-03-14,2025-06-07,contact@assamscholarships.gov.in
+SCH609797,State Women-specific Scholarship for Any,30086,Tamil Nadu,Women-specific,2026,All,Male,92,Medical,2025-04-01,2025-05-25,contact@tamilnaduscholarships.gov.in
+SCH323671,National Need-based Scholarship for Commerce,60409,West Bengal,Need-based,2025,ST,Male,68,Any,2025-04-29,2025-07-27,contact@westbengalscholarships.gov.in
+SCH89935,National Need-based Scholarship for Engineering,94985,Gujarat,Need-based,2026,ST,Male,55,Medical,2025-03-08,2025-04-16,contact@gujaratscholarships.gov.in
+SCH595192,Private Research Scholarship for Commerce,273191,Telangana,Research,2026,All,Female,85,Science,2025-04-15,2025-05-26,contact@telanganascholarships.gov.in
+SCH329963,National Minority Scholarship for Medical,32837,Tamil Nadu,Minority,2026,OBC,All,82,Arts,2025-04-14,2025-05-14,contact@tamilnaduscholarships.gov.in
+SCH903674,Private Sports Scholarship for Arts,7192,Telangana,Sports,2026,SC,Male,87,Science,2025-03-09,2025-05-14,contact@telanganascholarships.gov.in
+SCH442082,Private Need-based Scholarship for Any,78997,Bihar,Need-based,2025,ST,All,55,Commerce,2025-04-30,2025-07-17,contact@biharscholarships.gov.in
+SCH312266,State Need-based Scholarship for Any,96997,Bihar,Need-based,2025,All,Male,71,Commerce,2025-04-18,2025-05-22,contact@biharscholarships.gov.in
+SCH776051,State Research Scholarship for Commerce,296012,Andhra Pradesh,Research,2025,ST,Female,68,Arts,2025-04-12,2025-06-27,contact@andhrapradeshscholarships.gov.in
+SCH665454,Private Merit-based Scholarship for Commerce,49855,Haryana,Merit-based,2025,General,All,80,Commerce,2025-04-22,2025-07-11,contact@haryanascholarships.gov.in
+SCH187079,National Sports Scholarship for Any,24120,Haryana,Sports,2023,SC,Female,55,Medical,2025-04-27,2025-07-13,contact@haryanascholarships.gov.in
+SCH541169,State Minority Scholarship for Medical,45356,Bihar,Minority,2025,General,All,57,Commerce,2025-03-24,2025-05-10,contact@biharscholarships.gov.in
+SCH663989,Private Sports Scholarship for Medical,48198,Haryana,Sports,2024,SC,All,65,Science,2025-04-04,2025-05-27,contact@haryanascholarships.gov.in
+SCH234209,National Sports Scholarship for Arts,10531,Haryana,Sports,2024,ST,Female,74,Medical,2025-03-16,2025-05-23,contact@haryanascholarships.gov.in
+SCH183440,Private Women-specific Scholarship for Medical,18818,Uttar Pradesh,Women-specific,2025,General,All,66,Engineering,2025-04-12,2025-06-27,contact@uttarpradeshscholarships.gov.in
+SCH32406,State Need-based Scholarship for Science,72420,Assam,Need-based,2024,ST,All,95,Science,2025-03-26,2025-05-25,contact@assamscholarships.gov.in
+SCH38567,National Minority Scholarship for Commerce,33490,West Bengal,Minority,2026,ST,All,70,Commerce,2025-03-07,2025-04-24,contact@westbengalscholarships.gov.in
+SCH786883,Private Merit-based Scholarship for Any,56376,Assam,Merit-based,2025,SC,Female,67,Engineering,2025-04-30,2025-06-26,contact@assamscholarships.gov.in
+SCH42338,Private Women-specific Scholarship for Science,35219,Kerala,Women-specific,2024,All,Male,83,Arts,2025-04-25,2025-07-07,contact@keralascholarships.gov.in
+SCH138620,Private Minority Scholarship for Engineering,49092,Haryana,Minority,2023,General,Female,56,Commerce,2025-03-07,2025-05-29,contact@haryanascholarships.gov.in
+SCH918596,State Women-specific Scholarship for Arts,19379,Delhi,Women-specific,2025,OBC,Male,51,Commerce,2025-04-22,2025-06-09,contact@delhischolarships.gov.in
+SCH591977,Private Merit-based Scholarship for Any,38419,Bihar,Merit-based,2023,General,Male,88,Medical,2025-05-06,2025-07-13,contact@biharscholarships.gov.in
+SCH242150,Private Women-specific Scholarship for Commerce,17108,Tamil Nadu,Women-specific,2024,SC,Female,79,Any,2025-05-03,2025-06-09,contact@tamilnaduscholarships.gov.in
+SCH844630,State Women-specific Scholarship for Arts,32982,Bihar,Women-specific,2025,SC,Male,54,Arts,2025-04-20,2025-07-16,contact@biharscholarships.gov.in
+SCH27311,State Research Scholarship for Arts,81488,Assam,Research,2025,OBC,Female,54,Science,2025-03-23,2025-06-13,contact@assamscholarships.gov.in
+SCH755231,State Sports Scholarship for Medical,47302,Himachal Pradesh,Sports,2024,All,Female,63,Commerce,2025-04-07,2025-05-13,contact@himachalpradeshscholarships.gov.in
+SCH133967,Private Research Scholarship for Arts,104152,Delhi,Research,2023,All,All,66,Science,2025-03-09,2025-04-12,contact@delhischolarships.gov.in
+SCH139746,National Research Scholarship for Any,385720,Andhra Pradesh,Research,2023,ST,Female,59,Any,2025-03-07,2025-06-04,contact@andhrapradeshscholarships.gov.in
+SCH405510,Private Research Scholarship for Engineering,320209,Punjab,Research,2026,ST,Female,75,Any,2025-04-21,2025-07-20,contact@punjabscholarships.gov.in
+SCH873431,National Sports Scholarship for Engineering,30193,Bihar,Sports,2026,General,All,84,Arts,2025-04-20,2025-07-11,contact@biharscholarships.gov.in
+SCH23790,State Women-specific Scholarship for Science,8617,Punjab,Women-specific,2023,SC,All,71,Engineering,2025-04-16,2025-06-26,contact@punjabscholarships.gov.in
+SCH756318,Private Minority Scholarship for Medical,16574,Uttar Pradesh,Minority,2026,OBC,Female,94,Science,2025-04-11,2025-05-13,contact@uttarpradeshscholarships.gov.in
+SCH148507,Private Women-specific Scholarship for Arts,36883,Delhi,Women-specific,2026,OBC,Male,52,Medical,2025-03-12,2025-06-06,contact@delhischolarships.gov.in
+SCH727820,Private Women-specific Scholarship for Medical,37062,Andhra Pradesh,Women-specific,2025,ST,All,78,Engineering,2025-03-31,2025-05-04,contact@andhrapradeshscholarships.gov.in
+SCH362889,National Minority Scholarship for Arts,7805,Assam,Minority,2024,All,Female,93,Commerce,2025-04-01,2025-05-08,contact@assamscholarships.gov.in
+SCH841963,Private Women-specific Scholarship for Medical,9720,Gujarat,Women-specific,2024,ST,All,51,Science,2025-03-09,2025-05-25,contact@gujaratscholarships.gov.in
+SCH35166,Private Need-based Scholarship for Any,27109,Assam,Need-based,2023,SC,Male,79,Commerce,2025-03-07,2025-04-17,contact@assamscholarships.gov.in
+SCH46648,National Sports Scholarship for Engineering,12482,Haryana,Sports,2024,General,Male,77,Arts,2025-04-07,2025-06-14,contact@haryanascholarships.gov.in
+SCH65785,National Minority Scholarship for Any,42746,Tamil Nadu,Minority,2025,OBC,Male,87,Medical,2025-04-10,2025-05-18,contact@tamilnaduscholarships.gov.in
+SCH18428,National Merit-based Scholarship for Arts,28512,Punjab,Merit-based,2024,SC,All,60,Science,2025-04-24,2025-06-19,contact@punjabscholarships.gov.in
+SCH670729,National Sports Scholarship for Medical,11551,Karnataka,Sports,2026,OBC,Male,81,Engineering,2025-04-26,2025-07-19,contact@karnatakascholarships.gov.in
+SCH847400,National Merit-based Scholarship for Engineering,95426,Andhra Pradesh,Merit-based,2025,ST,All,80,Any,2025-04-13,2025-07-08,contact@andhrapradeshscholarships.gov.in
+SCH375880,National Need-based Scholarship for Any,45513,Gujarat,Need-based,2026,OBC,Male,89,Any,2025-04-09,2025-06-06,contact@gujaratscholarships.gov.in
+SCH678565,National Sports Scholarship for Any,37760,Assam,Sports,2023,SC,Female,76,Engineering,2025-04-15,2025-07-14,contact@assamscholarships.gov.in
+SCH82724,National Need-based Scholarship for Commerce,22541,Karnataka,Need-based,2024,ST,All,92,Medical,2025-04-15,2025-06-07,contact@karnatakascholarships.gov.in
+SCH253504,National Merit-based Scholarship for Engineering,29558,Kerala,Merit-based,2026,ST,Male,60,Any,2025-04-19,2025-07-12,contact@keralascholarships.gov.in
+SCH292434,Private Merit-based Scholarship for Arts,47363,Assam,Merit-based,2025,SC,All,79,Engineering,2025-03-20,2025-05-16,contact@assamscholarships.gov.in
+SCH999381,National Women-specific Scholarship for Commerce,16526,Delhi,Women-specific,2023,ST,All,57,Engineering,2025-03-17,2025-06-05,contact@delhischolarships.gov.in
+SCH334609,State Women-specific Scholarship for Commerce,42995,Karnataka,Women-specific,2024,SC,Male,57,Arts,2025-03-27,2025-05-22,contact@karnatakascholarships.gov.in
+SCH200005,National Merit-based Scholarship for Any,64079,Karnataka,Merit-based,2026,OBC,Male,80,Commerce,2025-05-01,2025-06-12,contact@karnatakascholarships.gov.in
+SCH735901,State Merit-based Scholarship for Medical,38333,West Bengal,Merit-based,2026,OBC,Female,73,Medical,2025-05-05,2025-07-13,contact@westbengalscholarships.gov.in
+SCH12965,National Women-specific Scholarship for Any,28500,Uttar Pradesh,Women-specific,2025,OBC,Male,94,Commerce,2025-03-24,2025-05-05,contact@uttarpradeshscholarships.gov.in
+SCH632023,National Minority Scholarship for Engineering,35509,Assam,Minority,2024,SC,Male,68,Commerce,2025-04-05,2025-05-31,contact@assamscholarships.gov.in
+SCH722705,Private Women-specific Scholarship for Medical,42887,Haryana,Women-specific,2024,General,Female,83,Science,2025-04-11,2025-07-04,contact@haryanascholarships.gov.in
+SCH271842,State Sports Scholarship for Science,23295,Himachal Pradesh,Sports,2026,OBC,Male,70,Science,2025-03-07,2025-05-22,contact@himachalpradeshscholarships.gov.in
+SCH13032,National Sports Scholarship for Commerce,5332,Karnataka,Sports,2023,ST,All,82,Engineering,2025-04-02,2025-05-04,contact@karnatakascholarships.gov.in
+SCH658481,State Sports Scholarship for Science,11422,Telangana,Sports,2024,General,All,50,Any,2025-04-04,2025-06-04,contact@telanganascholarships.gov.in
+SCH848250,National Need-based Scholarship for Arts,48769,Telangana,Need-based,2023,General,Female,92,Arts,2025-03-22,2025-06-01,contact@telanganascholarships.gov.in
+SCH414279,State Women-specific Scholarship for Commerce,43250,Haryana,Women-specific,2026,OBC,All,75,Medical,2025-03-08,2025-05-06,contact@haryanascholarships.gov.in
+SCH177943,State Women-specific Scholarship for Any,46510,Rajasthan,Women-specific,2023,ST,All,71,Commerce,2025-03-07,2025-05-31,contact@rajasthanscholarships.gov.in
+SCH65739,State Minority Scholarship for Arts,45140,Assam,Minority,2024,General,All,71,Any,2025-04-10,2025-06-15,contact@assamscholarships.gov.in
+SCH125753,Private Sports Scholarship for Arts,8379,Assam,Sports,2025,ST,All,52,Arts,2025-03-14,2025-05-07,contact@assamscholarships.gov.in
+SCH403434,Private Need-based Scholarship for Commerce,18782,Rajasthan,Need-based,2024,OBC,Female,65,Commerce,2025-04-11,2025-06-25,contact@rajasthanscholarships.gov.in
+SCH105904,State Women-specific Scholarship for Any,43018,Delhi,Women-specific,2024,OBC,Female,72,Arts,2025-05-01,2025-07-14,contact@delhischolarships.gov.in
+SCH362808,National Minority Scholarship for Engineering,29432,Telangana,Minority,2026,All,All,57,Science,2025-03-29,2025-05-26,contact@telanganascholarships.gov.in
+SCH823927,Private Research Scholarship for Arts,469379,Maharashtra,Research,2023,OBC,Female,55,Engineering,2025-04-19,2025-07-18,contact@maharashtrascholarships.gov.in
+SCH886617,State Need-based Scholarship for Engineering,24334,Tamil Nadu,Need-based,2023,OBC,Female,59,Medical,2025-03-17,2025-05-03,contact@tamilnaduscholarships.gov.in
+SCH84890,State Minority Scholarship for Any,40483,Andhra Pradesh,Minority,2026,SC,Female,78,Any,2025-05-05,2025-06-12,contact@andhrapradeshscholarships.gov.in
+SCH322498,National Minority Scholarship for Engineering,6444,Andhra Pradesh,Minority,2024,All,All,71,Science,2025-05-01,2025-07-21,contact@andhrapradeshscholarships.gov.in
+SCH259670,Private Women-specific Scholarship for Arts,36860,Punjab,Women-specific,2026,ST,Female,86,Medical,2025-04-13,2025-06-24,contact@punjabscholarships.gov.in
+SCH451089,State Need-based Scholarship for Medical,73470,Maharashtra,Need-based,2023,OBC,Female,68,Science,2025-03-30,2025-05-17,contact@maharashtrascholarships.gov.in
+SCH516009,National Sports Scholarship for Any,40082,Haryana,Sports,2024,OBC,Male,65,Engineering,2025-03-25,2025-05-05,contact@haryanascholarships.gov.in
+SCH182837,Private Minority Scholarship for Medical,33894,Assam,Minority,2024,OBC,All,95,Engineering,2025-03-23,2025-05-15,contact@assamscholarships.gov.in
+SCH840018,National Minority Scholarship for Arts,34388,Punjab,Minority,2025,General,Male,75,Science,2025-04-10,2025-05-20,contact@punjabscholarships.gov.in
+SCH980172,State Research Scholarship for Medical,52251,Gujarat,Research,2025,SC,Female,68,Commerce,2025-04-23,2025-06-26,contact@gujaratscholarships.gov.in
+SCH117153,Private Sports Scholarship for Science,27196,Gujarat,Sports,2026,General,Male,93,Commerce,2025-04-20,2025-05-27,contact@gujaratscholarships.gov.in
+SCH805602,National Minority Scholarship for Science,45469,Delhi,Minority,2026,SC,Male,70,Engineering,2025-04-29,2025-06-12,contact@delhischolarships.gov.in
+SCH994612,Private Sports Scholarship for Medical,23214,Himachal Pradesh,Sports,2023,All,Female,93,Any,2025-03-19,2025-04-19,contact@himachalpradeshscholarships.gov.in
+SCH996779,State Sports Scholarship for Medical,37143,Bihar,Sports,2023,SC,Female,59,Any,2025-03-27,2025-06-03,contact@biharscholarships.gov.in
+SCH690484,State Minority Scholarship for Arts,5798,Telangana,Minority,2025,SC,Female,85,Engineering,2025-03-25,2025-05-16,contact@telanganascholarships.gov.in
+SCH883828,State Women-specific Scholarship for Any,32237,Himachal Pradesh,Women-specific,2025,OBC,All,77,Any,2025-04-27,2025-06-24,contact@himachalpradeshscholarships.gov.in
+SCH62222,Private Need-based Scholarship for Commerce,21282,Telangana,Need-based,2025,ST,All,71,Engineering,2025-03-16,2025-04-28,contact@telanganascholarships.gov.in
+SCH287295,National Merit-based Scholarship for Science,93729,Tamil Nadu,Merit-based,2026,OBC,All,79,Any,2025-05-04,2025-06-20,contact@tamilnaduscholarships.gov.in
+SCH167688,National Need-based Scholarship for Science,47940,Gujarat,Need-based,2023,SC,All,69,Science,2025-04-11,2025-06-11,contact@gujaratscholarships.gov.in
+SCH83690,National Need-based Scholarship for Engineering,30188,Uttar Pradesh,Need-based,2026,General,All,92,Arts,2025-03-23,2025-05-11,contact@uttarpradeshscholarships.gov.in
+SCH326075,State Need-based Scholarship for Any,94513,Telangana,Need-based,2023,SC,Female,54,Commerce,2025-03-22,2025-04-22,contact@telanganascholarships.gov.in
+SCH70424,State Sports Scholarship for Commerce,33578,Rajasthan,Sports,2026,General,Female,82,Any,2025-05-01,2025-06-16,contact@rajasthanscholarships.gov.in
+SCH210951,National Minority Scholarship for Commerce,8834,Andhra Pradesh,Minority,2026,OBC,Female,60,Engineering,2025-03-16,2025-05-05,contact@andhrapradeshscholarships.gov.in
+SCH584699,State Minority Scholarship for Any,28329,Kerala,Minority,2025,All,All,54,Commerce,2025-03-10,2025-04-27,contact@keralascholarships.gov.in
+SCH991315,National Women-specific Scholarship for Engineering,44240,Himachal Pradesh,Women-specific,2025,SC,All,69,Arts,2025-04-24,2025-06-03,contact@himachalpradeshscholarships.gov.in
+SCH992589,Private Merit-based Scholarship for Commerce,56088,Rajasthan,Merit-based,2023,OBC,All,68,Arts,2025-04-28,2025-06-06,contact@rajasthanscholarships.gov.in
+SCH413854,State Research Scholarship for Medical,103696,West Bengal,Research,2024,OBC,All,89,Any,2025-03-20,2025-04-28,contact@westbengalscholarships.gov.in
+SCH908184,State Research Scholarship for Engineering,111113,Delhi,Research,2023,ST,Female,69,Any,2025-04-28,2025-06-05,contact@delhischolarships.gov.in
+SCH303203,State Need-based Scholarship for Commerce,78566,Rajasthan,Need-based,2024,SC,Male,57,Medical,2025-04-24,2025-06-14,contact@rajasthanscholarships.gov.in
+SCH435796,National Women-specific Scholarship for Any,19848,Gujarat,Women-specific,2024,OBC,Male,77,Any,2025-03-26,2025-05-03,contact@gujaratscholarships.gov.in
+SCH12625,National Merit-based Scholarship for Science,66524,Delhi,Merit-based,2023,General,All,82,Commerce,2025-03-09,2025-04-20,contact@delhischolarships.gov.in
+SCH109448,National Research Scholarship for Arts,72691,Assam,Research,2023,General,Male,88,Medical,2025-03-11,2025-04-29,contact@assamscholarships.gov.in
+SCH149741,Private Need-based Scholarship for Arts,13835,Himachal Pradesh,Need-based,2025,All,Female,72,Medical,2025-03-12,2025-04-20,contact@himachalpradeshscholarships.gov.in
+SCH308932,Private Sports Scholarship for Engineering,11494,Karnataka,Sports,2023,All,Male,95,Medical,2025-04-28,2025-07-04,contact@karnatakascholarships.gov.in
+SCH549876,Private Need-based Scholarship for Engineering,22934,Maharashtra,Need-based,2026,SC,All,87,Medical,2025-05-05,2025-06-17,contact@maharashtrascholarships.gov.in
+SCH892784,National Women-specific Scholarship for Medical,28253,Uttar Pradesh,Women-specific,2024,All,Male,76,Engineering,2025-03-31,2025-05-27,contact@uttarpradeshscholarships.gov.in
+SCH787044,State Merit-based Scholarship for Engineering,78121,Punjab,Merit-based,2025,SC,All,52,Engineering,2025-03-15,2025-05-15,contact@punjabscholarships.gov.in
+SCH820933,National Research Scholarship for Science,198694,Punjab,Research,2025,ST,Male,85,Science,2025-04-05,2025-06-12,contact@punjabscholarships.gov.in
+SCH984325,National Research Scholarship for Engineering,490956,Maharashtra,Research,2025,OBC,Male,93,Science,2025-04-27,2025-06-26,contact@maharashtrascholarships.gov.in
+SCH164292,State Research Scholarship for Commerce,395268,Delhi,Research,2023,OBC,Female,75,Any,2025-04-19,2025-05-24,contact@delhischolarships.gov.in
+SCH250549,National Women-specific Scholarship for Engineering,28836,Delhi,Women-specific,2024,All,Female,57,Medical,2025-03-19,2025-05-09,contact@delhischolarships.gov.in
+SCH83647,State Women-specific Scholarship for Arts,43136,Telangana,Women-specific,2026,SC,Female,92,Commerce,2025-04-13,2025-05-30,contact@telanganascholarships.gov.in
+SCH942326,Private Research Scholarship for Arts,127266,Tamil Nadu,Research,2023,General,Female,81,Science,2025-04-25,2025-06-23,contact@tamilnaduscholarships.gov.in
+SCH442979,National Women-specific Scholarship for Engineering,11527,Karnataka,Women-specific,2023,ST,All,51,Medical,2025-04-23,2025-05-26,contact@karnatakascholarships.gov.in
+SCH696800,Private Sports Scholarship for Arts,15009,Tamil Nadu,Sports,2023,General,All,83,Science,2025-03-26,2025-06-03,contact@tamilnaduscholarships.gov.in
+SCH922632,State Need-based Scholarship for Any,75260,Uttar Pradesh,Need-based,2025,All,Female,84,Commerce,2025-04-07,2025-06-08,contact@uttarpradeshscholarships.gov.in
+SCH510043,State Merit-based Scholarship for Engineering,60283,Andhra Pradesh,Merit-based,2026,ST,Female,52,Engineering,2025-04-04,2025-05-24,contact@andhrapradeshscholarships.gov.in
+SCH524087,Private Sports Scholarship for Arts,15757,Haryana,Sports,2024,SC,All,74,Science,2025-04-07,2025-06-03,contact@haryanascholarships.gov.in
+SCH389297,Private Sports Scholarship for Science,48258,Delhi,Sports,2026,ST,All,60,Commerce,2025-04-11,2025-06-23,contact@delhischolarships.gov.in
+SCH820147,State Research Scholarship for Science,359877,Assam,Research,2025,SC,Female,53,Engineering,2025-03-31,2025-06-08,contact@assamscholarships.gov.in
+SCH614669,State Need-based Scholarship for Arts,86541,Assam,Need-based,2025,ST,Male,77,Arts,2025-03-08,2025-05-25,contact@assamscholarships.gov.in
+SCH453450,State Research Scholarship for Engineering,396680,Rajasthan,Research,2024,SC,All,55,Any,2025-03-22,2025-05-06,contact@rajasthanscholarships.gov.in
+SCH937781,National Minority Scholarship for Arts,16126,Bihar,Minority,2025,General,Female,92,Science,2025-03-08,2025-05-11,contact@biharscholarships.gov.in
+SCH926547,National Minority Scholarship for Any,35782,Telangana,Minority,2025,ST,All,74,Arts,2025-04-13,2025-05-14,contact@telanganascholarships.gov.in
+SCH526476,National Research Scholarship for Any,403952,Delhi,Research,2026,All,All,71,Medical,2025-03-20,2025-05-10,contact@delhischolarships.gov.in
+SCH713474,State Minority Scholarship for Medical,37568,Maharashtra,Minority,2023,All,Male,68,Arts,2025-04-16,2025-07-09,contact@maharashtrascholarships.gov.in
+SCH535121,Private Minority Scholarship for Science,19803,Assam,Minority,2023,All,Male,87,Arts,2025-04-15,2025-07-01,contact@assamscholarships.gov.in
+SCH645791,Private Merit-based Scholarship for Commerce,72294,Kerala,Merit-based,2025,General,All,69,Commerce,2025-04-03,2025-05-16,contact@keralascholarships.gov.in
+SCH780656,Private Research Scholarship for Commerce,214287,Maharashtra,Research,2026,SC,All,82,Science,2025-03-19,2025-05-14,contact@maharashtrascholarships.gov.in
+SCH768237,Private Merit-based Scholarship for Any,77662,Haryana,Merit-based,2026,OBC,All,79,Arts,2025-05-01,2025-06-11,contact@haryanascholarships.gov.in
+SCH470700,Private Sports Scholarship for Any,8924,Telangana,Sports,2025,ST,Male,65,Medical,2025-04-09,2025-05-21,contact@telanganascholarships.gov.in
+SCH489814,State Research Scholarship for Arts,485271,Maharashtra,Research,2024,ST,Female,68,Any,2025-05-04,2025-06-07,contact@maharashtrascholarships.gov.in
+SCH729067,Private Minority Scholarship for Commerce,20475,Haryana,Minority,2023,OBC,Male,51,Medical,2025-04-01,2025-05-16,contact@haryanascholarships.gov.in
+SCH258504,State Research Scholarship for Commerce,278659,Maharashtra,Research,2023,OBC,Male,67,Medical,2025-04-03,2025-06-13,contact@maharashtrascholarships.gov.in
+SCH571380,State Minority Scholarship for Any,41091,Andhra Pradesh,Minority,2023,ST,Male,53,Engineering,2025-03-18,2025-05-28,contact@andhrapradeshscholarships.gov.in
+SCH412288,State Sports Scholarship for Engineering,31673,Punjab,Sports,2023,ST,All,58,Medical,2025-05-03,2025-06-25,contact@punjabscholarships.gov.in
+SCH683287,Private Sports Scholarship for Commerce,12906,Delhi,Sports,2025,ST,Male,65,Commerce,2025-04-09,2025-06-20,contact@delhischolarships.gov.in
+SCH108445,State Minority Scholarship for Commerce,30555,Delhi,Minority,2024,ST,Male,59,Engineering,2025-04-27,2025-07-13,contact@delhischolarships.gov.in
+SCH1261,State Need-based Scholarship for Science,63526,Haryana,Need-based,2023,ST,All,73,Any,2025-03-23,2025-06-16,contact@haryanascholarships.gov.in
+SCH197222,Private Minority Scholarship for Science,36120,Delhi,Minority,2025,OBC,Female,80,Any,2025-04-19,2025-06-03,contact@delhischolarships.gov.in
+SCH888539,National Minority Scholarship for Any,44702,Rajasthan,Minority,2023,OBC,Female,85,Science,2025-03-09,2025-05-31,contact@rajasthanscholarships.gov.in
+SCH890587,Private Women-specific Scholarship for Arts,49908,Maharashtra,Women-specific,2024,ST,Female,50,Science,2025-03-14,2025-05-17,contact@maharashtrascholarships.gov.in
+SCH711774,National Minority Scholarship for Medical,24491,Kerala,Minority,2024,ST,All,70,Any,2025-03-20,2025-06-13,contact@keralascholarships.gov.in
+SCH809807,State Merit-based Scholarship for Engineering,74447,Telangana,Merit-based,2026,SC,All,77,Engineering,2025-04-06,2025-06-22,contact@telanganascholarships.gov.in
+SCH189361,State Women-specific Scholarship for Commerce,9349,Haryana,Women-specific,2025,ST,All,51,Engineering,2025-03-29,2025-05-24,contact@haryanascholarships.gov.in
+SCH85088,State Women-specific Scholarship for Any,13918,Haryana,Women-specific,2024,SC,Female,86,Engineering,2025-03-07,2025-05-01,contact@haryanascholarships.gov.in
+SCH922295,National Need-based Scholarship for Commerce,95089,Delhi,Need-based,2026,SC,Female,80,Any,2025-04-24,2025-06-01,contact@delhischolarships.gov.in
+SCH779623,National Minority Scholarship for Any,43864,Gujarat,Minority,2025,OBC,Male,76,Arts,2025-04-28,2025-06-17,contact@gujaratscholarships.gov.in
+SCH81798,State Research Scholarship for Commerce,167695,Haryana,Research,2023,All,All,89,Any,2025-03-08,2025-06-06,contact@haryanascholarships.gov.in
+SCH913249,State Merit-based Scholarship for Medical,44312,Karnataka,Merit-based,2024,General,Female,89,Science,2025-04-20,2025-07-13,contact@karnatakascholarships.gov.in
+SCH344343,National Need-based Scholarship for Arts,32298,Kerala,Need-based,2023,General,All,83,Science,2025-05-06,2025-07-11,contact@keralascholarships.gov.in
+SCH626003,State Women-specific Scholarship for Engineering,19711,Uttar Pradesh,Women-specific,2024,SC,Female,81,Science,2025-04-21,2025-06-03,contact@uttarpradeshscholarships.gov.in
+SCH79773,National Research Scholarship for Commerce,163018,Gujarat,Research,2024,ST,Male,76,Medical,2025-04-28,2025-06-15,contact@gujaratscholarships.gov.in
+SCH136467,State Minority Scholarship for Medical,45480,Andhra Pradesh,Minority,2024,SC,All,93,Any,2025-04-04,2025-07-01,contact@andhrapradeshscholarships.gov.in
+SCH785200,National Merit-based Scholarship for Science,27459,Uttar Pradesh,Merit-based,2026,OBC,All,74,Any,2025-05-01,2025-06-20,contact@uttarpradeshscholarships.gov.in
+SCH525810,Private Women-specific Scholarship for Arts,9787,Telangana,Women-specific,2023,General,Female,65,Science,2025-03-13,2025-05-17,contact@telanganascholarships.gov.in
+SCH546859,Private Sports Scholarship for Commerce,7982,Rajasthan,Sports,2026,SC,Female,92,Arts,2025-03-07,2025-04-22,contact@rajasthanscholarships.gov.in
+SCH968947,National Sports Scholarship for Commerce,16755,Gujarat,Sports,2026,SC,Female,58,Engineering,2025-03-23,2025-05-02,contact@gujaratscholarships.gov.in
+SCH992387,Private Women-specific Scholarship for Science,14292,Punjab,Women-specific,2025,General,Male,81,Arts,2025-03-23,2025-04-29,contact@punjabscholarships.gov.in
+SCH588798,State Research Scholarship for Arts,371352,Rajasthan,Research,2025,All,Female,77,Medical,2025-04-29,2025-07-16,contact@rajasthanscholarships.gov.in
+SCH375219,State Women-specific Scholarship for Medical,41416,Punjab,Women-specific,2026,General,Male,59,Engineering,2025-04-30,2025-07-28,contact@punjabscholarships.gov.in
+SCH642121,National Need-based Scholarship for Science,44108,Karnataka,Need-based,2026,ST,Male,81,Engineering,2025-03-17,2025-05-31,contact@karnatakascholarships.gov.in
+SCH697627,Private Minority Scholarship for Commerce,36798,Uttar Pradesh,Minority,2023,OBC,Male,72,Engineering,2025-04-05,2025-06-05,contact@uttarpradeshscholarships.gov.in
+SCH939703,National Minority Scholarship for Medical,38340,Himachal Pradesh,Minority,2024,All,Male,83,Commerce,2025-04-28,2025-06-14,contact@himachalpradeshscholarships.gov.in
+SCH119846,National Research Scholarship for Medical,452786,Haryana,Research,2023,SC,Male,68,Any,2025-04-07,2025-06-19,contact@haryanascholarships.gov.in
+SCH648972,State Research Scholarship for Commerce,105611,Delhi,Research,2024,General,Male,79,Any,2025-04-29,2025-06-18,contact@delhischolarships.gov.in
+SCH558715,Private Research Scholarship for Arts,361534,West Bengal,Research,2025,General,All,89,Science,2025-04-18,2025-05-18,contact@westbengalscholarships.gov.in
+SCH413004,Private Women-specific Scholarship for Commerce,13475,Punjab,Women-specific,2023,SC,Female,53,Any,2025-03-20,2025-06-13,contact@punjabscholarships.gov.in
+SCH285866,Private Sports Scholarship for Science,11065,Bihar,Sports,2024,OBC,Female,55,Engineering,2025-04-01,2025-05-17,contact@biharscholarships.gov.in
+SCH199202,State Need-based Scholarship for Science,47347,Himachal Pradesh,Need-based,2024,General,Female,81,Science,2025-04-17,2025-07-04,contact@himachalpradeshscholarships.gov.in
+SCH436635,Private Women-specific Scholarship for Medical,28530,Maharashtra,Women-specific,2025,All,Male,81,Science,2025-04-18,2025-05-24,contact@maharashtrascholarships.gov.in
+SCH137496,State Research Scholarship for Commerce,364751,Tamil Nadu,Research,2026,SC,All,61,Science,2025-04-03,2025-05-08,contact@tamilnaduscholarships.gov.in
+SCH515569,National Merit-based Scholarship for Commerce,54793,Telangana,Merit-based,2024,OBC,Female,83,Any,2025-04-05,2025-06-17,contact@telanganascholarships.gov.in
+SCH399231,State Minority Scholarship for Science,10189,Bihar,Minority,2026,SC,Male,58,Any,2025-05-04,2025-07-24,contact@biharscholarships.gov.in
+SCH158247,Private Need-based Scholarship for Science,48729,Maharashtra,Need-based,2023,General,All,56,Commerce,2025-04-12,2025-05-15,contact@maharashtrascholarships.gov.in
+SCH314247,National Research Scholarship for Science,396478,Telangana,Research,2025,SC,Female,87,Engineering,2025-04-22,2025-06-27,contact@telanganascholarships.gov.in
+SCH257025,Private Merit-based Scholarship for Any,70670,Andhra Pradesh,Merit-based,2024,ST,Male,55,Science,2025-03-18,2025-06-06,contact@andhrapradeshscholarships.gov.in
+SCH170344,Private Minority Scholarship for Any,34818,Maharashtra,Minority,2026,All,Female,71,Medical,2025-04-24,2025-07-05,contact@maharashtrascholarships.gov.in
+SCH670965,National Need-based Scholarship for Any,89174,Himachal Pradesh,Need-based,2023,ST,All,51,Engineering,2025-03-23,2025-06-16,contact@himachalpradeshscholarships.gov.in
+SCH925992,National Merit-based Scholarship for Medical,95957,Tamil Nadu,Merit-based,2026,All,All,81,Arts,2025-04-06,2025-06-04,contact@tamilnaduscholarships.gov.in
+SCH23489,Private Women-specific Scholarship for Any,49243,Rajasthan,Women-specific,2025,General,Male,58,Engineering,2025-04-01,2025-06-21,contact@rajasthanscholarships.gov.in
+SCH142798,National Merit-based Scholarship for Any,34670,Himachal Pradesh,Merit-based,2024,ST,All,59,Any,2025-04-30,2025-05-31,contact@himachalpradeshscholarships.gov.in
+SCH290148,Private Research Scholarship for Commerce,150094,Karnataka,Research,2026,OBC,Female,77,Engineering,2025-03-12,2025-04-30,contact@karnatakascholarships.gov.in
+SCH640078,National Need-based Scholarship for Any,68361,Delhi,Need-based,2023,ST,All,65,Medical,2025-04-07,2025-06-06,contact@delhischolarships.gov.in
+SCH338802,State Sports Scholarship for Engineering,26879,Maharashtra,Sports,2026,ST,Female,87,Commerce,2025-03-07,2025-04-12,contact@maharashtrascholarships.gov.in
+SCH958371,State Merit-based Scholarship for Science,73714,Maharashtra,Merit-based,2026,OBC,All,53,Commerce,2025-04-08,2025-06-14,contact@maharashtrascholarships.gov.in
+SCH655661,Private Research Scholarship for Arts,340065,Andhra Pradesh,Research,2026,ST,Male,81,Commerce,2025-03-11,2025-04-27,contact@andhrapradeshscholarships.gov.in
+SCH445489,Private Research Scholarship for Science,60908,Rajasthan,Research,2024,ST,Female,78,Medical,2025-03-17,2025-05-04,contact@rajasthanscholarships.gov.in
+SCH716706,Private Sports Scholarship for Arts,44459,Karnataka,Sports,2026,OBC,Female,95,Science,2025-04-30,2025-07-22,contact@karnatakascholarships.gov.in
+SCH53437,Private Women-specific Scholarship for Any,28609,Telangana,Women-specific,2024,All,Male,68,Any,2025-04-26,2025-06-25,contact@telanganascholarships.gov.in
+SCH857506,State Women-specific Scholarship for Medical,16356,Bihar,Women-specific,2026,General,Female,81,Arts,2025-03-19,2025-04-28,contact@biharscholarships.gov.in
+SCH78181,Private Need-based Scholarship for Engineering,12376,Karnataka,Need-based,2025,SC,All,60,Medical,2025-03-29,2025-06-23,contact@karnatakascholarships.gov.in
+SCH669911,State Merit-based Scholarship for Science,24938,Assam,Merit-based,2023,All,Male,81,Arts,2025-04-15,2025-05-29,contact@assamscholarships.gov.in
+SCH922719,National Minority Scholarship for Commerce,22530,Punjab,Minority,2023,General,Female,79,Engineering,2025-05-03,2025-06-11,contact@punjabscholarships.gov.in
+SCH543068,Private Sports Scholarship for Engineering,41862,Delhi,Sports,2023,OBC,All,57,Medical,2025-03-09,2025-05-10,contact@delhischolarships.gov.in
+SCH707885,Private Need-based Scholarship for Arts,67870,Rajasthan,Need-based,2026,General,Male,91,Arts,2025-04-24,2025-06-25,contact@rajasthanscholarships.gov.in
+SCH19371,National Need-based Scholarship for Medical,67554,Punjab,Need-based,2023,OBC,Female,71,Arts,2025-04-02,2025-06-20,contact@punjabscholarships.gov.in
+SCH418962,State Merit-based Scholarship for Arts,64396,Haryana,Merit-based,2024,OBC,All,76,Medical,2025-03-30,2025-06-08,contact@haryanascholarships.gov.in
+SCH186209,State Research Scholarship for Science,290518,Gujarat,Research,2025,General,Female,59,Engineering,2025-05-06,2025-07-29,contact@gujaratscholarships.gov.in
+SCH52865,State Merit-based Scholarship for Arts,62645,Bihar,Merit-based,2026,General,Female,52,Any,2025-04-25,2025-06-04,contact@biharscholarships.gov.in
+SCH463138,National Sports Scholarship for Any,48277,Gujarat,Sports,2025,ST,Female,93,Any,2025-05-02,2025-07-04,contact@gujaratscholarships.gov.in
+SCH90066,Private Women-specific Scholarship for Arts,27554,Maharashtra,Women-specific,2025,All,All,59,Any,2025-03-07,2025-05-28,contact@maharashtrascholarships.gov.in
+SCH111634,Private Research Scholarship for Medical,335435,Tamil Nadu,Research,2026,SC,All,75,Medical,2025-04-15,2025-07-04,contact@tamilnaduscholarships.gov.in
+SCH712783,National Merit-based Scholarship for Commerce,53842,Maharashtra,Merit-based,2024,All,All,68,Medical,2025-03-31,2025-06-15,contact@maharashtrascholarships.gov.in
+SCH135376,Private Sports Scholarship for Arts,39166,Bihar,Sports,2024,General,Male,84,Commerce,2025-03-28,2025-06-14,contact@biharscholarships.gov.in
+SCH925347,State Need-based Scholarship for Any,65410,Kerala,Need-based,2023,SC,Female,90,Commerce,2025-04-08,2025-05-15,contact@keralascholarships.gov.in
+SCH236124,National Merit-based Scholarship for Any,26351,Rajasthan,Merit-based,2023,ST,Female,65,Any,2025-04-04,2025-05-23,contact@rajasthanscholarships.gov.in
+SCH360489,State Minority Scholarship for Arts,48707,Karnataka,Minority,2024,ST,All,65,Engineering,2025-04-26,2025-07-17,contact@karnatakascholarships.gov.in
+SCH897675,Private Sports Scholarship for Medical,28676,Punjab,Sports,2024,ST,Female,55,Engineering,2025-04-05,2025-05-11,contact@punjabscholarships.gov.in
+SCH650182,National Research Scholarship for Science,162608,Assam,Research,2025,All,Female,87,Commerce,2025-04-04,2025-05-08,contact@assamscholarships.gov.in
+SCH613546,Private Minority Scholarship for Science,46711,Tamil Nadu,Minority,2026,ST,Male,59,Commerce,2025-04-03,2025-05-31,contact@tamilnaduscholarships.gov.in
+SCH309953,Private Research Scholarship for Science,117835,Gujarat,Research,2023,OBC,Female,80,Engineering,2025-04-21,2025-06-22,contact@gujaratscholarships.gov.in
+SCH140399,State Sports Scholarship for Engineering,44426,Haryana,Sports,2023,General,Female,86,Arts,2025-04-30,2025-06-25,contact@haryanascholarships.gov.in
+SCH679140,National Sports Scholarship for Engineering,29344,Assam,Sports,2025,SC,Female,51,Medical,2025-03-26,2025-05-18,contact@assamscholarships.gov.in
+SCH654279,State Sports Scholarship for Engineering,24999,Gujarat,Sports,2024,OBC,All,81,Engineering,2025-05-02,2025-06-19,contact@gujaratscholarships.gov.in
+SCH861021,State Sports Scholarship for Engineering,7928,Delhi,Sports,2025,All,Female,71,Science,2025-04-02,2025-06-01,contact@delhischolarships.gov.in
+SCH428188,Private Women-specific Scholarship for Medical,14078,West Bengal,Women-specific,2026,ST,All,78,Medical,2025-04-08,2025-06-17,contact@westbengalscholarships.gov.in
+SCH347063,Private Merit-based Scholarship for Any,91735,Punjab,Merit-based,2024,ST,Female,84,Engineering,2025-04-02,2025-05-26,contact@punjabscholarships.gov.in
+SCH710072,State Women-specific Scholarship for Any,10801,Uttar Pradesh,Women-specific,2023,All,All,95,Arts,2025-05-01,2025-06-10,contact@uttarpradeshscholarships.gov.in
+SCH208400,Private Women-specific Scholarship for Engineering,17610,Delhi,Women-specific,2023,All,All,62,Science,2025-04-15,2025-06-18,contact@delhischolarships.gov.in
+SCH768175,Private Merit-based Scholarship for Commerce,33559,Andhra Pradesh,Merit-based,2024,OBC,All,87,Science,2025-03-08,2025-04-24,contact@andhrapradeshscholarships.gov.in
+SCH146061,Private Sports Scholarship for Arts,31332,Bihar,Sports,2026,General,Female,77,Medical,2025-04-13,2025-05-15,contact@biharscholarships.gov.in
+SCH211738,Private Merit-based Scholarship for Arts,60070,Telangana,Merit-based,2023,General,All,60,Arts,2025-03-23,2025-04-27,contact@telanganascholarships.gov.in
+SCH782709,State Need-based Scholarship for Engineering,30214,Gujarat,Need-based,2026,OBC,Male,89,Arts,2025-03-26,2025-06-24,contact@gujaratscholarships.gov.in
+SCH595925,Private Merit-based Scholarship for Engineering,49062,Haryana,Merit-based,2025,OBC,Female,70,Arts,2025-03-31,2025-05-06,contact@haryanascholarships.gov.in
+SCH137144,National Merit-based Scholarship for Medical,41407,Tamil Nadu,Merit-based,2024,ST,All,82,Science,2025-04-24,2025-07-01,contact@tamilnaduscholarships.gov.in
+SCH189481,National Minority Scholarship for Arts,35462,Delhi,Minority,2023,ST,Male,76,Any,2025-04-11,2025-06-06,contact@delhischolarships.gov.in
+SCH758583,State Merit-based Scholarship for Commerce,86830,Karnataka,Merit-based,2024,All,All,58,Arts,2025-04-19,2025-05-25,contact@karnatakascholarships.gov.in
+SCH149302,National Research Scholarship for Any,312370,Telangana,Research,2024,SC,All,60,Medical,2025-03-20,2025-06-08,contact@telanganascholarships.gov.in
+SCH346062,State Sports Scholarship for Engineering,5065,Telangana,Sports,2025,OBC,Male,53,Science,2025-04-28,2025-06-26,contact@telanganascholarships.gov.in
+SCH952841,State Sports Scholarship for Any,29913,Kerala,Sports,2024,All,All,68,Engineering,2025-03-29,2025-06-20,contact@keralascholarships.gov.in
+SCH740411,Private Women-specific Scholarship for Commerce,9583,Haryana,Women-specific,2026,General,Male,85,Arts,2025-03-26,2025-04-30,contact@haryanascholarships.gov.in
+SCH967323,Private Need-based Scholarship for Commerce,51720,Telangana,Need-based,2025,SC,All,78,Arts,2025-05-02,2025-07-14,contact@telanganascholarships.gov.in
+SCH787274,State Women-specific Scholarship for Arts,18803,Karnataka,Women-specific,2025,General,All,58,Any,2025-04-05,2025-06-12,contact@karnatakascholarships.gov.in
+SCH376931,State Sports Scholarship for Engineering,5627,Andhra Pradesh,Sports,2026,All,All,95,Science,2025-04-19,2025-05-30,contact@andhrapradeshscholarships.gov.in
+SCH807654,National Sports Scholarship for Any,47681,Tamil Nadu,Sports,2023,ST,All,57,Arts,2025-03-11,2025-05-14,contact@tamilnaduscholarships.gov.in
+SCH340099,State Sports Scholarship for Science,16612,Tamil Nadu,Sports,2023,General,Female,73,Medical,2025-04-29,2025-07-17,contact@tamilnaduscholarships.gov.in
+SCH853592,National Merit-based Scholarship for Any,12592,Uttar Pradesh,Merit-based,2025,OBC,Male,89,Any,2025-04-24,2025-06-10,contact@uttarpradeshscholarships.gov.in
+SCH578627,National Women-specific Scholarship for Medical,37362,Maharashtra,Women-specific,2025,ST,All,95,Commerce,2025-03-30,2025-05-01,contact@maharashtrascholarships.gov.in
+SCH709502,National Merit-based Scholarship for Any,61915,Himachal Pradesh,Merit-based,2025,All,All,81,Medical,2025-03-14,2025-06-07,contact@himachalpradeshscholarships.gov.in
+SCH698847,Private Women-specific Scholarship for Commerce,49051,Himachal Pradesh,Women-specific,2024,General,All,58,Any,2025-04-19,2025-06-26,contact@himachalpradeshscholarships.gov.in
+SCH709165,State Need-based Scholarship for Commerce,39879,Bihar,Need-based,2025,OBC,All,51,Any,2025-05-02,2025-07-04,contact@biharscholarships.gov.in
+SCH712966,Private Women-specific Scholarship for Science,5128,Kerala,Women-specific,2023,SC,Female,76,Arts,2025-05-06,2025-07-02,contact@keralascholarships.gov.in
+SCH151986,Private Women-specific Scholarship for Science,37477,Delhi,Women-specific,2023,OBC,Male,67,Science,2025-03-30,2025-06-01,contact@delhischolarships.gov.in
+SCH351149,National Minority Scholarship for Science,17753,Uttar Pradesh,Minority,2023,OBC,All,77,Engineering,2025-03-28,2025-05-02,contact@uttarpradeshscholarships.gov.in
+SCH641942,National Need-based Scholarship for Arts,50737,Karnataka,Need-based,2023,General,Female,77,Engineering,2025-03-11,2025-05-20,contact@karnatakascholarships.gov.in
+SCH255192,National Minority Scholarship for Engineering,36036,Punjab,Minority,2023,SC,All,65,Engineering,2025-03-22,2025-05-12,contact@punjabscholarships.gov.in
+SCH716283,Private Merit-based Scholarship for Science,85882,Uttar Pradesh,Merit-based,2023,General,Female,70,Any,2025-03-14,2025-04-18,contact@uttarpradeshscholarships.gov.in
+SCH338752,National Need-based Scholarship for Science,17181,Bihar,Need-based,2026,General,Male,93,Engineering,2025-03-26,2025-06-03,contact@biharscholarships.gov.in
+SCH584655,State Minority Scholarship for Science,11280,Assam,Minority,2026,OBC,All,92,Commerce,2025-04-15,2025-07-02,contact@assamscholarships.gov.in
+SCH95076,State Research Scholarship for Science,466895,Andhra Pradesh,Research,2023,SC,All,93,Engineering,2025-04-03,2025-06-28,contact@andhrapradeshscholarships.gov.in
+SCH217492,State Sports Scholarship for Commerce,17614,Uttar Pradesh,Sports,2023,All,All,54,Commerce,2025-03-13,2025-04-18,contact@uttarpradeshscholarships.gov.in
+SCH77988,National Sports Scholarship for Any,38351,Himachal Pradesh,Sports,2026,ST,All,89,Science,2025-03-23,2025-05-14,contact@himachalpradeshscholarships.gov.in
+SCH950858,National Need-based Scholarship for Engineering,17928,Haryana,Need-based,2026,All,All,72,Arts,2025-03-15,2025-05-03,contact@haryanascholarships.gov.in
+SCH173537,State Need-based Scholarship for Arts,89079,Gujarat,Need-based,2025,General,All,87,Any,2025-03-28,2025-05-15,contact@gujaratscholarships.gov.in
+SCH702679,National Merit-based Scholarship for Commerce,83328,Gujarat,Merit-based,2026,SC,Male,62,Any,2025-04-30,2025-06-02,contact@gujaratscholarships.gov.in
+SCH681441,State Merit-based Scholarship for Medical,97537,Himachal Pradesh,Merit-based,2026,All,All,71,Commerce,2025-04-06,2025-06-19,contact@himachalpradeshscholarships.gov.in
+SCH326138,State Sports Scholarship for Science,26536,Punjab,Sports,2026,General,Female,64,Engineering,2025-03-17,2025-04-22,contact@punjabscholarships.gov.in
+SCH12770,National Women-specific Scholarship for Science,45889,Karnataka,Women-specific,2026,SC,All,74,Medical,2025-03-20,2025-05-04,contact@karnatakascholarships.gov.in
+SCH627453,National Need-based Scholarship for Arts,11296,Tamil Nadu,Need-based,2023,All,Male,59,Arts,2025-03-11,2025-05-02,contact@tamilnaduscholarships.gov.in
+SCH441476,Private Need-based Scholarship for Commerce,57174,Uttar Pradesh,Need-based,2024,OBC,Female,61,Medical,2025-03-09,2025-04-09,contact@uttarpradeshscholarships.gov.in
+SCH136500,National Women-specific Scholarship for Arts,41340,Kerala,Women-specific,2024,General,Male,66,Engineering,2025-03-22,2025-05-02,contact@keralascholarships.gov.in
+SCH817023,National Women-specific Scholarship for Science,47917,Andhra Pradesh,Women-specific,2023,SC,Male,69,Science,2025-04-26,2025-07-21,contact@andhrapradeshscholarships.gov.in
+SCH919071,State Minority Scholarship for Any,16230,Karnataka,Minority,2026,General,Male,59,Medical,2025-05-06,2025-07-08,contact@karnatakascholarships.gov.in
+SCH615129,Private Need-based Scholarship for Science,59054,Himachal Pradesh,Need-based,2026,OBC,Male,89,Commerce,2025-03-27,2025-06-03,contact@himachalpradeshscholarships.gov.in
+SCH979515,State Sports Scholarship for Medical,26474,Himachal Pradesh,Sports,2025,OBC,All,87,Science,2025-03-22,2025-04-24,contact@himachalpradeshscholarships.gov.in
+SCH50891,National Women-specific Scholarship for Science,48483,Himachal Pradesh,Women-specific,2024,All,Female,91,Commerce,2025-04-15,2025-05-19,contact@himachalpradeshscholarships.gov.in
+SCH709951,Private Research Scholarship for Science,143846,Rajasthan,Research,2025,All,All,80,Any,2025-03-27,2025-06-10,contact@rajasthanscholarships.gov.in
+SCH106537,State Research Scholarship for Commerce,260211,West Bengal,Research,2023,OBC,Male,62,Science,2025-04-16,2025-07-13,contact@westbengalscholarships.gov.in
+SCH405762,National Research Scholarship for Arts,272834,Karnataka,Research,2024,SC,Female,85,Engineering,2025-05-02,2025-06-25,contact@karnatakascholarships.gov.in
+SCH36899,State Merit-based Scholarship for Science,78002,Gujarat,Merit-based,2023,ST,All,89,Arts,2025-03-29,2025-05-12,contact@gujaratscholarships.gov.in
+SCH416985,State Research Scholarship for Science,264409,Telangana,Research,2026,SC,Female,74,Engineering,2025-03-30,2025-06-19,contact@telanganascholarships.gov.in
+SCH756696,National Research Scholarship for Arts,388351,Haryana,Research,2023,SC,All,82,Commerce,2025-03-11,2025-05-02,contact@haryanascholarships.gov.in
+SCH139038,National Minority Scholarship for Engineering,12771,Bihar,Minority,2023,All,Male,71,Medical,2025-03-11,2025-05-03,contact@biharscholarships.gov.in
+SCH790383,State Minority Scholarship for Any,49796,Punjab,Minority,2024,All,Male,95,Any,2025-04-30,2025-06-16,contact@punjabscholarships.gov.in
+SCH862278,State Merit-based Scholarship for Arts,55433,Kerala,Merit-based,2026,All,All,50,Science,2025-04-26,2025-06-20,contact@keralascholarships.gov.in
+SCH800197,National Research Scholarship for Medical,429236,Gujarat,Research,2026,OBC,All,87,Commerce,2025-04-23,2025-06-05,contact@gujaratscholarships.gov.in
+SCH205700,State Women-specific Scholarship for Arts,10627,Uttar Pradesh,Women-specific,2024,ST,All,76,Medical,2025-03-27,2025-06-19,contact@uttarpradeshscholarships.gov.in
+SCH881552,Private Research Scholarship for Engineering,246450,Uttar Pradesh,Research,2024,SC,All,50,Science,2025-03-15,2025-05-20,contact@uttarpradeshscholarships.gov.in
+SCH523129,National Minority Scholarship for Science,32899,Rajasthan,Minority,2026,All,Female,70,Commerce,2025-04-19,2025-07-06,contact@rajasthanscholarships.gov.in
+SCH680685,National Sports Scholarship for Medical,15072,Andhra Pradesh,Sports,2026,ST,Male,75,Engineering,2025-05-06,2025-06-26,contact@andhrapradeshscholarships.gov.in
+SCH281738,State Need-based Scholarship for Engineering,53101,Tamil Nadu,Need-based,2025,General,Male,56,Any,2025-04-12,2025-06-09,contact@tamilnaduscholarships.gov.in
+SCH485409,Private Merit-based Scholarship for Commerce,74043,Haryana,Merit-based,2024,General,Female,68,Medical,2025-03-08,2025-04-18,contact@haryanascholarships.gov.in
+SCH662182,Private Minority Scholarship for Commerce,9586,Karnataka,Minority,2025,All,Male,60,Arts,2025-04-05,2025-05-08,contact@karnatakascholarships.gov.in
+SCH204919,National Research Scholarship for Engineering,117705,Telangana,Research,2026,General,Female,63,Medical,2025-04-10,2025-06-05,contact@telanganascholarships.gov.in
+SCH37854,State Minority Scholarship for Any,48567,Himachal Pradesh,Minority,2025,All,Male,82,Any,2025-04-06,2025-05-16,contact@himachalpradeshscholarships.gov.in
+SCH332725,National Minority Scholarship for Engineering,14351,Uttar Pradesh,Minority,2026,All,Male,83,Arts,2025-04-04,2025-05-08,contact@uttarpradeshscholarships.gov.in
+SCH620356,State Research Scholarship for Commerce,70491,West Bengal,Research,2025,ST,Female,94,Any,2025-04-23,2025-05-28,contact@westbengalscholarships.gov.in
+SCH593066,Private Research Scholarship for Medical,267607,Maharashtra,Research,2026,ST,Female,92,Medical,2025-03-22,2025-05-02,contact@maharashtrascholarships.gov.in
+SCH918488,Private Research Scholarship for Engineering,175669,Delhi,Research,2024,SC,All,84,Arts,2025-05-02,2025-07-26,contact@delhischolarships.gov.in
+SCH19277,Private Women-specific Scholarship for Any,19238,Bihar,Women-specific,2026,All,Male,73,Engineering,2025-05-04,2025-07-04,contact@biharscholarships.gov.in
+SCH610660,State Sports Scholarship for Science,34552,Delhi,Sports,2024,All,Male,79,Engineering,2025-03-17,2025-05-02,contact@delhischolarships.gov.in
+SCH92928,Private Women-specific Scholarship for Any,35271,Bihar,Women-specific,2026,OBC,Female,52,Engineering,2025-03-31,2025-05-21,contact@biharscholarships.gov.in
+SCH187131,Private Merit-based Scholarship for Medical,52875,Kerala,Merit-based,2026,ST,Female,54,Engineering,2025-04-18,2025-07-04,contact@keralascholarships.gov.in
+SCH194527,State Women-specific Scholarship for Medical,35853,Karnataka,Women-specific,2024,OBC,Male,88,Engineering,2025-04-28,2025-06-14,contact@karnatakascholarships.gov.in
+SCH384370,National Minority Scholarship for Commerce,30614,Haryana,Minority,2023,SC,Male,78,Arts,2025-03-17,2025-04-20,contact@haryanascholarships.gov.in
+SCH236043,Private Need-based Scholarship for Engineering,98479,Haryana,Need-based,2026,General,All,83,Any,2025-04-10,2025-05-23,contact@haryanascholarships.gov.in
+SCH901843,Private Research Scholarship for Arts,282776,Delhi,Research,2023,General,Female,62,Medical,2025-03-10,2025-05-17,contact@delhischolarships.gov.in
+SCH662047,National Need-based Scholarship for Engineering,12102,Rajasthan,Need-based,2023,SC,Male,93,Any,2025-04-02,2025-05-03,contact@rajasthanscholarships.gov.in
+SCH555477,National Need-based Scholarship for Any,32004,Bihar,Need-based,2023,ST,All,56,Arts,2025-04-22,2025-06-01,contact@biharscholarships.gov.in
+SCH428369,Private Sports Scholarship for Medical,45938,Punjab,Sports,2026,ST,Male,64,Medical,2025-03-20,2025-06-17,contact@punjabscholarships.gov.in
+SCH298324,State Minority Scholarship for Medical,5982,Delhi,Minority,2025,General,Female,63,Science,2025-04-01,2025-06-11,contact@delhischolarships.gov.in
+SCH88446,Private Merit-based Scholarship for Arts,95189,Karnataka,Merit-based,2023,General,Male,76,Arts,2025-04-15,2025-06-07,contact@karnatakascholarships.gov.in
+SCH308424,Private Merit-based Scholarship for Commerce,84606,West Bengal,Merit-based,2023,All,Female,90,Any,2025-03-17,2025-05-02,contact@westbengalscholarships.gov.in
+SCH850788,Private Women-specific Scholarship for Medical,26761,Tamil Nadu,Women-specific,2025,ST,Male,71,Engineering,2025-03-18,2025-05-27,contact@tamilnaduscholarships.gov.in
+SCH563813,Private Research Scholarship for Any,438924,Uttar Pradesh,Research,2023,OBC,Male,89,Engineering,2025-03-21,2025-05-22,contact@uttarpradeshscholarships.gov.in
+SCH775935,Private Need-based Scholarship for Science,41922,Maharashtra,Need-based,2023,OBC,Female,81,Arts,2025-04-15,2025-05-20,contact@maharashtrascholarships.gov.in
+SCH792772,State Need-based Scholarship for Medical,94153,Himachal Pradesh,Need-based,2026,SC,Male,67,Arts,2025-03-09,2025-04-23,contact@himachalpradeshscholarships.gov.in
+SCH224710,State Sports Scholarship for Any,23904,Assam,Sports,2024,SC,Female,65,Medical,2025-04-24,2025-05-25,contact@assamscholarships.gov.in
+SCH2281,National Women-specific Scholarship for Any,19578,Assam,Women-specific,2026,All,Female,61,Science,2025-04-14,2025-07-08,contact@assamscholarships.gov.in
+SCH694942,State Merit-based Scholarship for Engineering,35226,Andhra Pradesh,Merit-based,2024,OBC,Male,55,Medical,2025-03-10,2025-05-19,contact@andhrapradeshscholarships.gov.in
+SCH125143,Private Need-based Scholarship for Engineering,65868,Himachal Pradesh,Need-based,2025,OBC,All,62,Medical,2025-04-22,2025-06-20,contact@himachalpradeshscholarships.gov.in
+SCH99788,Private Need-based Scholarship for Medical,49728,Telangana,Need-based,2026,OBC,Female,80,Engineering,2025-03-25,2025-05-30,contact@telanganascholarships.gov.in
+SCH538290,State Research Scholarship for Medical,296789,Rajasthan,Research,2026,OBC,Female,51,Science,2025-04-04,2025-05-31,contact@rajasthanscholarships.gov.in
+SCH114891,State Merit-based Scholarship for Commerce,80411,Telangana,Merit-based,2024,SC,Female,79,Arts,2025-03-16,2025-05-20,contact@telanganascholarships.gov.in
+SCH572857,State Minority Scholarship for Commerce,44716,Uttar Pradesh,Minority,2025,OBC,All,80,Medical,2025-04-06,2025-05-10,contact@uttarpradeshscholarships.gov.in
+SCH537211,National Need-based Scholarship for Engineering,75627,Gujarat,Need-based,2025,ST,Female,76,Science,2025-04-22,2025-07-07,contact@gujaratscholarships.gov.in
+SCH320821,State Research Scholarship for Arts,386094,Rajasthan,Research,2026,General,Male,74,Commerce,2025-04-13,2025-05-17,contact@rajasthanscholarships.gov.in
+SCH866184,State Need-based Scholarship for Arts,55688,Haryana,Need-based,2026,SC,All,53,Any,2025-04-08,2025-06-22,contact@haryanascholarships.gov.in
+SCH802827,Private Research Scholarship for Medical,177062,Tamil Nadu,Research,2025,General,All,92,Any,2025-04-06,2025-05-08,contact@tamilnaduscholarships.gov.in
+SCH975151,Private Minority Scholarship for Science,49634,Gujarat,Minority,2024,All,All,92,Medical,2025-03-16,2025-05-01,contact@gujaratscholarships.gov.in
+SCH563717,National Merit-based Scholarship for Any,60377,Andhra Pradesh,Merit-based,2023,All,Male,77,Medical,2025-04-01,2025-06-15,contact@andhrapradeshscholarships.gov.in
+SCH752495,Private Minority Scholarship for Arts,37810,Telangana,Minority,2026,All,Female,76,Any,2025-04-10,2025-06-21,contact@telanganascholarships.gov.in
+SCH691311,Private Merit-based Scholarship for Commerce,55140,Bihar,Merit-based,2025,OBC,All,75,Any,2025-04-28,2025-06-06,contact@biharscholarships.gov.in
+SCH956107,National Merit-based Scholarship for Science,10206,Maharashtra,Merit-based,2026,All,Female,91,Arts,2025-03-13,2025-04-16,contact@maharashtrascholarships.gov.in
+SCH680220,National Need-based Scholarship for Arts,34431,Telangana,Need-based,2024,ST,Male,82,Engineering,2025-04-21,2025-05-29,contact@telanganascholarships.gov.in
+SCH381093,National Sports Scholarship for Medical,18168,Uttar Pradesh,Sports,2024,OBC,Female,76,Science,2025-03-10,2025-05-26,contact@uttarpradeshscholarships.gov.in
+SCH478706,National Women-specific Scholarship for Engineering,24210,Delhi,Women-specific,2023,SC,Male,71,Engineering,2025-03-12,2025-05-05,contact@delhischolarships.gov.in
+SCH616520,State Research Scholarship for Any,448738,Karnataka,Research,2023,SC,Male,92,Commerce,2025-03-13,2025-04-12,contact@karnatakascholarships.gov.in
+SCH310258,National Merit-based Scholarship for Commerce,10951,Assam,Merit-based,2025,ST,Female,71,Commerce,2025-03-31,2025-06-07,contact@assamscholarships.gov.in
+SCH586502,State Minority Scholarship for Any,27483,Telangana,Minority,2024,SC,All,75,Science,2025-03-27,2025-06-17,contact@telanganascholarships.gov.in
+SCH122048,State Minority Scholarship for Engineering,5202,Assam,Minority,2026,OBC,Male,88,Engineering,2025-04-05,2025-06-29,contact@assamscholarships.gov.in
+SCH595758,National Women-specific Scholarship for Arts,34616,Kerala,Women-specific,2026,All,Female,92,Medical,2025-04-15,2025-06-27,contact@keralascholarships.gov.in
+SCH61536,State Women-specific Scholarship for Engineering,46535,Andhra Pradesh,Women-specific,2023,SC,All,78,Medical,2025-03-30,2025-06-23,contact@andhrapradeshscholarships.gov.in
+SCH367933,Private Research Scholarship for Commerce,466263,West Bengal,Research,2026,ST,All,94,Engineering,2025-03-12,2025-05-03,contact@westbengalscholarships.gov.in
+SCH61673,Private Minority Scholarship for Medical,14382,Tamil Nadu,Minority,2023,OBC,Female,55,Arts,2025-05-01,2025-07-03,contact@tamilnaduscholarships.gov.in
+SCH949523,State Need-based Scholarship for Engineering,73198,Uttar Pradesh,Need-based,2024,OBC,Male,60,Any,2025-04-18,2025-06-21,contact@uttarpradeshscholarships.gov.in
+SCH56635,State Merit-based Scholarship for Any,13830,Bihar,Merit-based,2025,ST,Female,64,Any,2025-03-17,2025-06-14,contact@biharscholarships.gov.in
+SCH459077,State Women-specific Scholarship for Any,13067,Kerala,Women-specific,2026,General,All,71,Medical,2025-04-18,2025-05-26,contact@keralascholarships.gov.in
+SCH82718,State Women-specific Scholarship for Science,30011,Bihar,Women-specific,2026,OBC,Male,66,Engineering,2025-04-17,2025-06-27,contact@biharscholarships.gov.in
+SCH574949,National Merit-based Scholarship for Engineering,54595,Maharashtra,Merit-based,2024,General,All,73,Medical,2025-04-23,2025-06-29,contact@maharashtrascholarships.gov.in
+SCH512526,Private Research Scholarship for Any,50880,Punjab,Research,2024,ST,Female,70,Arts,2025-03-26,2025-04-28,contact@punjabscholarships.gov.in
+SCH358975,Private Sports Scholarship for Commerce,43717,Gujarat,Sports,2026,General,All,79,Arts,2025-03-21,2025-04-26,contact@gujaratscholarships.gov.in
+SCH881957,National Minority Scholarship for Science,49563,Gujarat,Minority,2025,OBC,All,92,Any,2025-04-05,2025-05-14,contact@gujaratscholarships.gov.in
+SCH371482,State Sports Scholarship for Arts,37923,Assam,Sports,2025,All,Female,90,Medical,2025-04-20,2025-05-27,contact@assamscholarships.gov.in
+SCH820284,Private Minority Scholarship for Science,8854,West Bengal,Minority,2024,OBC,All,64,Any,2025-04-27,2025-06-17,contact@westbengalscholarships.gov.in
+SCH55986,State Need-based Scholarship for Any,61355,Assam,Need-based,2024,General,All,75,Arts,2025-03-26,2025-06-16,contact@assamscholarships.gov.in
+SCH182468,State Women-specific Scholarship for Arts,30648,Telangana,Women-specific,2025,SC,All,62,Any,2025-04-01,2025-05-05,contact@telanganascholarships.gov.in
+SCH738915,National Merit-based Scholarship for Arts,86072,Tamil Nadu,Merit-based,2023,SC,Female,91,Medical,2025-05-01,2025-07-21,contact@tamilnaduscholarships.gov.in
+SCH560018,Private Research Scholarship for Science,202610,Gujarat,Research,2024,OBC,All,62,Any,2025-05-03,2025-06-11,contact@gujaratscholarships.gov.in
+SCH565059,Private Minority Scholarship for Commerce,11681,Andhra Pradesh,Minority,2024,ST,Female,93,Medical,2025-04-19,2025-07-08,contact@andhrapradeshscholarships.gov.in
+SCH949480,State Merit-based Scholarship for Science,33544,Assam,Merit-based,2023,All,All,71,Commerce,2025-05-06,2025-06-08,contact@assamscholarships.gov.in
+SCH345121,Private Need-based Scholarship for Any,62952,Telangana,Need-based,2023,OBC,Female,81,Arts,2025-03-22,2025-04-23,contact@telanganascholarships.gov.in
+SCH966413,Private Women-specific Scholarship for Science,48957,Haryana,Women-specific,2026,ST,Female,90,Any,2025-04-18,2025-05-23,contact@haryanascholarships.gov.in
+SCH555504,National Minority Scholarship for Engineering,12643,Uttar Pradesh,Minority,2026,All,Male,51,Commerce,2025-03-12,2025-04-18,contact@uttarpradeshscholarships.gov.in
+SCH929839,Private Minority Scholarship for Any,11196,West Bengal,Minority,2024,ST,Female,91,Any,2025-04-26,2025-07-02,contact@westbengalscholarships.gov.in
+SCH330666,Private Minority Scholarship for Medical,11516,Telangana,Minority,2024,ST,All,51,Science,2025-03-27,2025-04-30,contact@telanganascholarships.gov.in
+SCH934661,Private Merit-based Scholarship for Commerce,80645,West Bengal,Merit-based,2023,OBC,All,57,Medical,2025-04-21,2025-07-12,contact@westbengalscholarships.gov.in
+SCH350667,Private Merit-based Scholarship for Science,51195,Haryana,Merit-based,2024,All,Male,91,Medical,2025-03-14,2025-04-15,contact@haryanascholarships.gov.in
+SCH149954,State Sports Scholarship for Engineering,10545,Bihar,Sports,2025,SC,All,60,Science,2025-03-14,2025-05-15,contact@biharscholarships.gov.in
+SCH69335,State Need-based Scholarship for Engineering,78084,Andhra Pradesh,Need-based,2025,All,Female,58,Commerce,2025-05-03,2025-07-22,contact@andhrapradeshscholarships.gov.in
+SCH615623,State Women-specific Scholarship for Commerce,28076,West Bengal,Women-specific,2024,General,All,52,Medical,2025-04-14,2025-06-17,contact@westbengalscholarships.gov.in
+SCH864444,National Need-based Scholarship for Arts,38208,Assam,Need-based,2024,All,Female,67,Medical,2025-03-15,2025-05-22,contact@assamscholarships.gov.in
+SCH42667,Private Merit-based Scholarship for Arts,44167,Telangana,Merit-based,2024,ST,Female,55,Arts,2025-03-31,2025-06-10,contact@telanganascholarships.gov.in
+SCH747240,National Women-specific Scholarship for Commerce,18353,Telangana,Women-specific,2025,OBC,All,73,Commerce,2025-03-11,2025-05-20,contact@telanganascholarships.gov.in
+SCH888792,National Research Scholarship for Arts,463025,Haryana,Research,2023,All,Male,54,Arts,2025-04-03,2025-05-27,contact@haryanascholarships.gov.in
+SCH460154,National Sports Scholarship for Any,40937,Delhi,Sports,2025,General,Female,71,Arts,2025-04-02,2025-05-06,contact@delhischolarships.gov.in
+SCH484615,State Need-based Scholarship for Engineering,22838,Gujarat,Need-based,2026,General,Male,61,Commerce,2025-03-31,2025-05-14,contact@gujaratscholarships.gov.in
+SCH194757,State Sports Scholarship for Engineering,39665,Maharashtra,Sports,2025,All,Female,88,Engineering,2025-03-29,2025-06-11,contact@maharashtrascholarships.gov.in
+SCH293463,State Need-based Scholarship for Science,33681,Assam,Need-based,2026,ST,All,58,Arts,2025-03-29,2025-06-18,contact@assamscholarships.gov.in
+SCH617053,Private Women-specific Scholarship for Any,15190,Andhra Pradesh,Women-specific,2024,ST,All,67,Engineering,2025-04-18,2025-05-26,contact@andhrapradeshscholarships.gov.in
+SCH201021,National Women-specific Scholarship for Any,44891,Rajasthan,Women-specific,2026,OBC,Female,72,Science,2025-04-02,2025-06-16,contact@rajasthanscholarships.gov.in
+SCH438694,State Minority Scholarship for Commerce,19992,Maharashtra,Minority,2023,SC,Female,70,Engineering,2025-03-26,2025-06-04,contact@maharashtrascholarships.gov.in
+SCH439093,Private Merit-based Scholarship for Medical,22272,Bihar,Merit-based,2023,General,All,68,Commerce,2025-03-17,2025-05-22,contact@biharscholarships.gov.in
+SCH384560,State Merit-based Scholarship for Any,76674,West Bengal,Merit-based,2024,ST,Female,82,Any,2025-05-05,2025-07-20,contact@westbengalscholarships.gov.in
+SCH249019,National Research Scholarship for Commerce,149711,Delhi,Research,2023,ST,All,84,Any,2025-05-04,2025-07-26,contact@delhischolarships.gov.in
+SCH103288,Private Need-based Scholarship for Any,79220,Rajasthan,Need-based,2023,All,Female,60,Any,2025-04-19,2025-06-26,contact@rajasthanscholarships.gov.in
+SCH381726,National Need-based Scholarship for Arts,27474,Karnataka,Need-based,2023,ST,Female,74,Medical,2025-04-08,2025-05-30,contact@karnatakascholarships.gov.in
+SCH93778,State Merit-based Scholarship for Any,42737,Rajasthan,Merit-based,2023,SC,Female,80,Arts,2025-04-29,2025-07-02,contact@rajasthanscholarships.gov.in
+SCH45345,National Need-based Scholarship for Any,92729,Kerala,Need-based,2024,SC,All,82,Engineering,2025-04-12,2025-06-06,contact@keralascholarships.gov.in
+SCH532763,State Sports Scholarship for Engineering,28314,Uttar Pradesh,Sports,2026,SC,Female,72,Engineering,2025-03-07,2025-05-15,contact@uttarpradeshscholarships.gov.in
+SCH60210,Private Minority Scholarship for Medical,31349,Andhra Pradesh,Minority,2023,ST,Female,62,Engineering,2025-03-29,2025-04-28,contact@andhrapradeshscholarships.gov.in
+SCH985144,National Research Scholarship for Science,53623,Gujarat,Research,2025,OBC,Female,75,Arts,2025-03-16,2025-06-03,contact@gujaratscholarships.gov.in
+SCH383040,State Minority Scholarship for Medical,40155,Maharashtra,Minority,2023,ST,All,78,Medical,2025-04-27,2025-06-13,contact@maharashtrascholarships.gov.in
+SCH450769,Private Minority Scholarship for Science,5380,Gujarat,Minority,2024,General,Male,68,Engineering,2025-03-29,2025-06-23,contact@gujaratscholarships.gov.in
+SCH428890,State Research Scholarship for Any,223651,Gujarat,Research,2024,OBC,Female,92,Arts,2025-05-03,2025-06-04,contact@gujaratscholarships.gov.in
+SCH339056,State Research Scholarship for Commerce,309820,Delhi,Research,2024,SC,Female,82,Any,2025-04-27,2025-07-09,contact@delhischolarships.gov.in
+SCH470722,National Need-based Scholarship for Engineering,12772,Tamil Nadu,Need-based,2025,All,Male,93,Medical,2025-03-15,2025-04-23,contact@tamilnaduscholarships.gov.in
+SCH548838,State Women-specific Scholarship for Science,44130,Assam,Women-specific,2026,ST,Female,68,Science,2025-04-23,2025-05-23,contact@assamscholarships.gov.in
+SCH455338,National Research Scholarship for Commerce,129951,Bihar,Research,2024,OBC,Female,57,Arts,2025-04-22,2025-06-23,contact@biharscholarships.gov.in
+SCH348095,State Women-specific Scholarship for Medical,36057,Karnataka,Women-specific,2023,All,All,61,Medical,2025-04-21,2025-07-10,contact@karnatakascholarships.gov.in
+SCH970214,National Need-based Scholarship for Medical,62596,Gujarat,Need-based,2024,OBC,Female,51,Commerce,2025-03-09,2025-04-25,contact@gujaratscholarships.gov.in
+SCH470632,National Merit-based Scholarship for Science,63385,Himachal Pradesh,Merit-based,2024,OBC,Female,77,Science,2025-04-09,2025-05-28,contact@himachalpradeshscholarships.gov.in
